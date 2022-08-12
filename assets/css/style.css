@@ -79,5 +79,29 @@ a:hover {
     font-family: 'Cinzel', sans-serif;
 }
 
+footer {
+    
+    
+}
+
+footer h2 {
+    font-family: 'Dancing Script', sans-serif;
+    font-size: 250%;
+    display: flex;
+    justify-content: center;
+}
+
+#media {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    padding-right: 25px;
+}
+
+#media li {
+    font-size: 400%;
+    list-style-type: none;
+}
+
 
 
