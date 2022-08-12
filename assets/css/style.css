@@ -10,7 +10,7 @@ header {
     align-items: flex-start;
 }
 
-ul {
+ header ul {
     display: flex;
     padding-right: 200px;
     padding-top: 75px;
@@ -60,6 +60,23 @@ a:hover {
 
 #photos > img {
     width: 100%;
+}
+
+#times {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+#times h2 {
+    font-family: 'Dancing Script', sans-serif;
+    font-size: 250%;
+}
+
+#times ul {
+    font-size: 200%;
+    font-family: 'Cinzel', sans-serif;
 }
 
 
