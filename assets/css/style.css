@@ -1,0 +1,15 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 10px;
+}
+
+ul {
+    display: flex;
+    padding-right: 175px;
+    width: 100%;
+    justify-content: space-around;
+    font-size: x-large;
+    list-style: none;
+}
+
