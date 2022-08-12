@@ -103,5 +103,11 @@ footer h2 {
     list-style-type: none;
 }
 
+#contact {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+
 
 
