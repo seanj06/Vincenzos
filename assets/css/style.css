@@ -1,15 +1,37 @@
 header {
     display: flex;
     justify-content: space-between;
-    padding-top: 10px;
+    align-items: flex-start;
+    background-color: #B0A8B9;
 }
 
 ul {
     display: flex;
-    padding-right: 175px;
+    padding-right: 200px;
+    padding-top: 75px;
     width: 100%;
     justify-content: space-around;
-    font-size: x-large;
+    font-size: xx-large;
     list-style: none;
+    font-family: 'Dancing script', sans-serif;
+    color: black;
+    letter-spacing: 4px;
+    
 }
+
+#hero-text {
+    font-size: xx-large;
+    font-family: 'Dancing Script', sans-serif;
+    color: black;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+a:hover {
+    border-bottom: 2px solid #3a3a3a;
+}
+
 
