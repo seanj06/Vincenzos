@@ -105,5 +105,14 @@ footer h2 {
     flex-direction: row;
 }
 
+/* Form syles  */
+
+#form-hero-text {
+    display: flex;
+    justify-content: center;
+    font-family: 'Dancing Script', sans-serif;
+    font-size: 250%;
+}
+
 
 
