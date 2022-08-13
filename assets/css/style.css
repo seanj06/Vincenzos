@@ -114,5 +114,30 @@ footer h2 {
     font-size: 250%;
 }
 
+#form {
+    display: flex;
+    flex-direction: column;
+    width: 100%
+    justify-content: center;
+}
+
+input[type=text] {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+}
+
+input[type=email] {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+}
+
+select {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+}
+
 
 
