@@ -115,29 +115,42 @@ footer h2 {
 }
 
 #form {
+    width: 50%;
     display: flex;
     flex-direction: column;
-    width: 100%
     justify-content: center;
+    padding-left: 350px;
 }
 
 input[type=text] {
     margin-top: 20px;
     margin-bottom: 20px;
     border-radius: 4px;
+    padding: 15px;
 }
 
 input[type=email] {
     margin-top: 20px;
     margin-bottom: 20px;
     border-radius: 4px;
+    padding: 15px;
 }
 
 select {
     margin-top: 20px;
     margin-bottom: 20px;
     border-radius: 4px;
+    padding: 15px;
 }
 
+input[type=submit] {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    padding: 15px;
+    background-color: gray;
+    font-size: 150%;
+    color: white;
+}
 
 
