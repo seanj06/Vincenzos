@@ -155,26 +155,25 @@ input[type=submit] {
 
 /* menu styles */
 
-#hero-font {
-    display: flex;
-    justify-content: center;
+.menu-container {
+    
+}
+
+.menu-container h1 {
     font-family: 'Dancing Script', sans-serif;
     font-size: 400%;
+    border-bottom: 2px solid black;
+    text-align: center;
 }
 
-hr {
-    border: 2px solid black;
-    width: 30%;
-    margin-top: 30px;
-}
-
-.sub-heading {
-    display: flex;
-    justify-content: center;
+.sub-headings {
     font-family: 'Dancing Script', sans-serif;
     font-size: 250%;
+    text-align: center;
 }
 
-
-
-
+.menu-items {
+    font-size: 200%;
+    font-family: 'Cinzel', sans-serif;
+    text-align: center;
+}
