@@ -1,5 +1,7 @@
 body {
     background-color: #B0A8B9;
+    margin: 0;
+    height: 100%;
 }
 
 header {
@@ -192,4 +194,5 @@ input[type=submit] {
     display: block;
     margin-left: auto;
   margin-right: auto;
+  margin-top: 50px;
 }
