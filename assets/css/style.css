@@ -6,8 +6,11 @@ header {
     display: flex;
     justify-content: space-between;
     height: 100%;
+    width: 100%;
     line-height: 75px;
     align-items: flex-start;
+    background-color: antiquewhite;
+    border-radius: 15px;
 }
 
  header ul {
@@ -77,6 +80,11 @@ a:hover {
 #times ul {
     font-size: 200%;
     font-family: 'Cinzel', sans-serif;
+}
+
+footer {
+    background-color: antiquewhite;
+    border-radius: 15px;
 }
 
 
@@ -162,7 +170,6 @@ input[type=submit] {
 .menu-container h1 {
     font-family: 'Dancing Script', sans-serif;
     font-size: 400%;
-    border-bottom: 2px solid black;
     text-align: center;
 }
 
@@ -176,4 +183,13 @@ input[type=submit] {
     font-size: 200%;
     font-family: 'Cinzel', sans-serif;
     text-align: center;
+}
+
+.menu-symbol {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+  margin-right: auto;
 }
