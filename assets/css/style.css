@@ -153,4 +153,20 @@ input[type=submit] {
     color: white;
 }
 
+/* menu styles */
+
+#menu-hero {
+    display: flex;
+    justify-content: center;
+    font-family: 'Dancing Script', sans-serif;
+    font-size: 400%;
+}
+
+hr {
+    border: 2px solid black;
+    width: 30%;
+    margin-top: 30px;
+}
+
+
 
