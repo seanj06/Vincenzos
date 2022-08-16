@@ -230,3 +230,21 @@ input[type=submit] {
   margin-right: auto;
   margin-top: 50px;
 }
+
+/* Media Queries */
+
+/* For Mobile */
+
+@media screen and (max-width: 420px) {
+   body {
+    width: fit-content;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+   }
+
+   
+   
+    
+}
