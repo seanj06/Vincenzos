@@ -13,9 +13,10 @@ header {
     width: 100%;
     line-height: 75px;
     align-items: flex-start;
-    background-color: antiquewhite;
+    background-color: #222020;
     border-radius: 15px;
     border: 3px solid black;
+    color: white;
 }
 
  header ul {
@@ -27,7 +28,7 @@ header {
     font-size: xx-large;
     list-style: none;
     font-family: 'Dancing script', sans-serif;
-    color: black;
+    color:white;
     letter-spacing: 4px;
     margin: 0;
     height: 100%;
@@ -38,7 +39,7 @@ header {
 #hero-text {
     font-size: xx-large;
     font-family: 'Dancing Script', sans-serif;
-    color: black;
+    color: white;
 }
 
 a {
@@ -51,6 +52,14 @@ a:hover {
 }
 
 /* About Section Styles */
+
+#about {
+    background-color: #222020;
+    color: white;
+    border: 3px solid black;
+    border-radius: 15px;
+    margin : 0;
+}
 
 #about h2{
     display: flex;
@@ -103,9 +112,10 @@ a:hover {
 /* Footer Styles And Displays */
 
 footer {
-    background-color: antiquewhite;
+    background-color:#222020;
     border-radius: 15px;
     border: 3px solid black;
+    color: white;
 }
 
 
@@ -204,6 +214,11 @@ input[type=submit] {
     font-size: 200%;
     font-family: 'Cinzel', sans-serif;
     text-align: center;
+    border: 3px solid black;
+    border-radius: 10%;
+    padding-bottom: 20px;
+    background-color: #222020;
+    color: white;
 }
 
 .menu-symbol {
