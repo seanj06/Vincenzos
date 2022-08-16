@@ -4,6 +4,8 @@ body {
     height: 100%;
 }
 
+/* Header Styles and displays */
+
 header {
     display: flex;
     justify-content: space-between;
@@ -13,11 +15,12 @@ header {
     align-items: flex-start;
     background-color: antiquewhite;
     border-radius: 15px;
+    border: 3px solid black;
 }
 
  header ul {
     display: flex;
-    padding-right: 200px;
+     padding-right: 200px;
     padding-top: 75px;
     width: 100%;
     justify-content: space-around;
@@ -26,8 +29,11 @@ header {
     font-family: 'Dancing script', sans-serif;
     color: black;
     letter-spacing: 4px;
+    margin: 0;
+    height: 100%;
+    }
+
     
-}
 
 #hero-text {
     font-size: xx-large;
@@ -44,6 +50,8 @@ a:hover {
     border-bottom: 2px solid #3a3a3a;
 }
 
+/* About Section Styles */
+
 #about h2{
     display: flex;
     justify-content: center;
@@ -56,16 +64,24 @@ a:hover {
     font-family: 'Cinzel', sans-serif;
 }
 
+/* Photo Section Styles */
+
 #photos {
     clear: both;
     line-height: 0;
     column-count: 2;
     column-gap: 0;
+    border: 3px solid black;
+    border-radius: 15px;
 }
 
 #photos > img {
     width: 100%;
+    border: 3px solid black;
+    border-radius: 50%;
 }
+
+/* Opening Times Section Styles */
 
 #times {
     display: flex;
@@ -84,9 +100,12 @@ a:hover {
     font-family: 'Cinzel', sans-serif;
 }
 
+/* Footer Styles And Displays */
+
 footer {
     background-color: antiquewhite;
     border-radius: 15px;
+    border: 3px solid black;
 }
 
 
