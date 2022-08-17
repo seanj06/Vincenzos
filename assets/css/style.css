@@ -2,6 +2,7 @@ body {
     background-color: #B0A8B9;
     margin: 0;
     height: 100%;
+    width: 100%;
 }
 
 /* Header Styles and displays */
@@ -11,7 +12,6 @@ header {
     justify-content: space-between;
     height: 100%;
     width: 100%;
-    line-height: 75px;
     align-items: flex-start;
     background-color: #222020;
     border: 3px solid black;
@@ -24,7 +24,7 @@ header {
     padding-top: 75px;
     width: 100%;
     justify-content: space-around;
-    font-size: 1.6em;
+    font-size: 1.5em;
     list-style: none;
     font-family: 'Dancing script', sans-serif;
     color:white;
@@ -36,7 +36,7 @@ header {
     
 
 #hero-text {
-    font-size: 1.5em;
+    font-size: 1.4em;
     font-family: 'Dancing Script', sans-serif;
     color: white;
 }
@@ -47,7 +47,7 @@ a {
 }
 
 a:hover {
-    border-bottom: 2px solid #3a3a3a;
+    border-bottom: 2px solid white;
 }
 
 /* About Section Styles */
@@ -64,13 +64,14 @@ a:hover {
 #about h2{
     display: flex;
     justify-content: center;
-    font-size: 1.7em;
+    font-size: 1.6em;
     font-family: 'Dancing Script', sans-serif;
 }
 
 #about p {
-    font-size: 1.3em;
+    font-size: 1.2em;
     font-family: 'Cinzel', sans-serif;
+    text-align: center;
 }
 
 /* Photo Section Styles */
@@ -78,13 +79,13 @@ a:hover {
 #photos {
     display: flex;
     height: 100%;
-    width: 100%;
+    width: 360px;
 }
 
 #photos > img {
-    height: 350px;
-    width: 360px;
-    
+    max-width: 100%;
+    height: auto;
+    object-fit: contain
 }
 
 /* Opening Times Section Styles */
@@ -104,6 +105,7 @@ a:hover {
 #times ul {
     font-size: 1.3em;
     font-family: 'Cinzel', sans-serif;
+    list-style: none;
 }
 
 /* Footer Styles And Displays */
@@ -141,19 +143,26 @@ footer h2 {
 
 /* Form syles  */
 
+#form-container {
+display: flex;
+justify-content: center;
+flex-direction: column;
+align-items: center;
+
+}
+
 #form-hero-text {
-    display: flex;
-    justify-content: center;
-    font-family: 'Dancing Script', sans-serif;
-    font-size: 250%;
+     font-family: 'Dancing Script', sans-serif;
+    font-size: 1.7em;
+    
 }
 
 #form {
-    width: 50%;
+    font-size: 1.5em;
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    padding-left: 350px;
+    width: 50%;
+    
 }
 
 input[type=text] {
@@ -182,31 +191,37 @@ input[type=submit] {
     margin-bottom: 20px;
     border-radius: 15px;
     padding: 15px;
-    background-color: gray;
-    font-size: 150%;
+    background-color:#222020;
+    font-size: 1.7em;
     color: white;
+}
+
+label {
+    font-size: 1.2em;
+    font-family: 'Cinzel', sans-serif; 
 }
 
 /* menu styles */
 
 .menu-container {
-    
+    display: flex;
+    flex-direction: column;
 }
 
 .menu-container h1 {
     font-family: 'Dancing Script', sans-serif;
-    font-size: 400%;
+    font-size: 2em;
     text-align: center;
 }
 
 .sub-headings {
     font-family: 'Dancing Script', sans-serif;
-    font-size: 250%;
+    font-size: 1.7em;
     text-align: center;
 }
 
 .menu-items {
-    font-size: 200%;
+    font-size: 1.4em;
     font-family: 'Cinzel', sans-serif;
     text-align: center;
     border: 3px solid black;
