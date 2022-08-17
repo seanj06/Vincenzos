@@ -14,7 +14,6 @@ header {
     line-height: 75px;
     align-items: flex-start;
     background-color: #222020;
-    border-radius: 15px;
     border: 3px solid black;
     color: white;
 }
@@ -25,7 +24,7 @@ header {
     padding-top: 75px;
     width: 100%;
     justify-content: space-around;
-    font-size: xx-large;
+    font-size: 1.6em;
     list-style: none;
     font-family: 'Dancing script', sans-serif;
     color:white;
@@ -37,7 +36,7 @@ header {
     
 
 #hero-text {
-    font-size: xx-large;
+    font-size: 1.5em;
     font-family: 'Dancing Script', sans-serif;
     color: white;
 }
@@ -57,37 +56,35 @@ a:hover {
     background-color: #222020;
     color: white;
     border: 3px solid black;
-    border-radius: 15px;
     margin : 0;
+    height: 100%;
+    width: 100%;
 }
 
 #about h2{
     display: flex;
     justify-content: center;
-    font-size: 250%;
+    font-size: 1.7em;
     font-family: 'Dancing Script', sans-serif;
 }
 
 #about p {
-    font-size: 200%;
+    font-size: 1.3em;
     font-family: 'Cinzel', sans-serif;
 }
 
 /* Photo Section Styles */
 
 #photos {
-    clear: both;
-    line-height: 0;
-    column-count: 2;
-    column-gap: 0;
-    border: 3px solid black;
-    border-radius: 15px;
+    display: flex;
+    height: 100%;
+    width: 100%;
 }
 
 #photos > img {
-    width: 100%;
-    border: 3px solid black;
-    border-radius: 50%;
+    height: 350px;
+    width: 360px;
+    
 }
 
 /* Opening Times Section Styles */
@@ -101,11 +98,11 @@ a:hover {
 
 #times h2 {
     font-family: 'Dancing Script', sans-serif;
-    font-size: 250%;
+    font-size: 1.5em;
 }
 
 #times ul {
-    font-size: 200%;
+    font-size: 1.3em;
     font-family: 'Cinzel', sans-serif;
 }
 
@@ -113,7 +110,6 @@ a:hover {
 
 footer {
     background-color:#222020;
-    border-radius: 15px;
     border: 3px solid black;
     color: white;
 }
@@ -121,20 +117,19 @@ footer {
 
 footer h2 {
     font-family: 'Dancing Script', sans-serif;
-    font-size: 250%;
+    font-size: 1.5em;
     display: flex;
     justify-content: center;
 }
 
 #media {
     display: flex;
-    justify-content: center;
-    align-items: flex-end;
-    padding-right: 25px;
+   justify-content: space-around;
+    
 }
 
 #media li {
-    font-size: 400%;
+    font-size: 1.5em;
     list-style-type: none;
 }
 
@@ -235,7 +230,7 @@ input[type=submit] {
 
 /* For Mobile */
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 768px) {
     body {
         width: 100%;
         margin: 0;
@@ -244,7 +239,6 @@ input[type=submit] {
     }
     
     header {
-        display : flex;
         flex-direction: column;
         justify-content: space-between;
     }
