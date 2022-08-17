@@ -236,15 +236,27 @@ input[type=submit] {
 /* For Mobile */
 
 @media screen and (max-width: 420px) {
-   body {
-    width: fit-content;
-    margin: 0 auto;
-    display: flex;
-    flex-direction: column;
-    width: fit-content;
-   }
-
-   
-   
+    body {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        
+    }
     
+    header {
+        display : flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    
+    header ul {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        
+    }
+
+    #hero-text {
+        align-self: center;
+    }
 }
