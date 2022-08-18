@@ -197,6 +197,10 @@ footer h2 {
     flex-direction: row;
 }
 
+#media li:hover {
+    font-size: 250%;
+}
+
 /* Form syles  */
 
 #form-container {
