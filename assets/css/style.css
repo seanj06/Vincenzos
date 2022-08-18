@@ -112,40 +112,42 @@ a:hover {
 
 /* Map Section */
 
-#map {
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-    align-items: center;
-    border: 3px solid black;
-    height: 100%;
-    width: 100%;
-    margin: 0;
+#map-text {
+    font-family: 'Cinzel', sans-serif;
+    font-size: 1.1em;
 }
-
 
 #map-hero-text {
     font-family: 'Dancing Script', sans-serif;
     font-size: 1.1em;
 }
 
-#map-text {
-    font-family: 'Cinzel', sans-serif;
-}
-
 #map-text-wrapper {
     background-color:#222020;
-    width: 100%;
     color: white;
     display: flex;
-    flex-direction: column;
+    align-items: center;
+    flex-direction: row;
+    margin: 0;
+    padding: 0;
+}
+
+#map-image-wrapper {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
     align-items: center;
 }
 
-#map-image {
-    max-height: 100%;
-    max-width: auto;
-}
+#map-image-wrapper img {
+   width: 40%;
+   height: 40;
+   margin: 0;
+   padding: 0;
+   object-fit: cover;
+   }
      
 /* Footer Styles And Displays */
 
@@ -243,8 +245,9 @@ label {
 /* menu styles */
 
 .menu-container {
-    display: flex;
+    display:flex;
     flex-direction: column;
+    ;
 }
 
 .menu-container h1 {
@@ -279,6 +282,8 @@ label {
   margin-right: auto;
   margin-top: 50px;
 }
+
+
 
 /* Media Queries */
 
