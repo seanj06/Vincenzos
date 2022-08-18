@@ -127,27 +127,24 @@ a:hover {
     color: white;
     display: flex;
     align-items: center;
-    flex-direction: row;
+    flex-direction: column;
     margin: 0;
     padding: 0;
 }
 
-#map-image-wrapper {
-    width: 100%;
+#map-wrapper {
     margin: 0;
     padding: 0;
     display: flex;
-    justify-content: center;
-    align-items: center;
+    justify-content: center;;
 }
 
-#map-image-wrapper img {
-   width: 40%;
-   height: 40;
-   margin: 0;
-   padding: 0;
-   object-fit: cover;
-   }
+#map {
+    border: 3px solid #222020;
+}
+
+
+
      
 /* Footer Styles And Displays */
 
