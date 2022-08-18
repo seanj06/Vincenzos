@@ -265,10 +265,15 @@ label {
 
 .menu-container {
     display:flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: space-around;
     flex-wrap: wrap;
     ;
+}
+
+#menu-hero-text {
+    justify-content: center;
+    align-items: flex-start;
 }
 
 .menu-container h1 {
@@ -294,16 +299,30 @@ label {
     color: white;
 }
 
-.menu-symbol {
-    height: 50px;
-    width: 50px;
-    border-radius: 50%;
-    display: block;
-    margin-left: auto;
-  margin-right: auto;
-  margin-top: 50px;
+#starter-wrapper {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+    padding-right: 100px;
 }
 
+#main-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+#pizza-wrapper {
+    display: flex;
+    padding-top: 20px;
+    justify-content: center;
+}
+
+#dessert-wrapper {
+    display: flex;
+    padding-top: 20px;
+    justify-content: center;
+    padding-bottom: 20px;
+}
 
 
 /* Media Queries */
