@@ -1,8 +1,8 @@
 body {
     background-color: #B0A8B9;
     margin: 0;
-    height: 100%;
-    width: auto;
+    height: auto;
+    width: 100%;
 }
 
 /* Header Styles and displays */
@@ -156,10 +156,12 @@ a:hover {
     padding: 0;
     display: flex;
     justify-content: center;
+    max-width: 100%;
 }
 
 #map {
     border: 3px solid #222020;
+    max-width: 100%;
 }
 
 iframe {
@@ -382,7 +384,7 @@ label {
 
 @media screen and (max-width: 768px) {
     body {
-        width: 100%;
+        max-width: 100%;
         margin: 0;
         padding: 0;
         
