@@ -144,7 +144,7 @@ a:hover {
     font-size: 1.1em;
 }
 
-#map-text-wrapper {
+#map-text-container {
     background-color:#222020;
     color: white;
     display: flex;
@@ -154,7 +154,7 @@ a:hover {
     padding: 0;
 }
 
-#map-wrapper {
+#map-container {
     margin: 0;
     padding: 0;
     display: flex;
@@ -276,6 +276,7 @@ label {
     font-family: 'Cinzel', sans-serif; 
 }
 /* menu styles */
+
 #menu-container {
     display: flex;
     flex-direction: column;
@@ -297,7 +298,7 @@ label {
     border-bottom: 3px dotted #222020;
 }
 
-#starter-wrapper {
+#starter-container {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -309,7 +310,7 @@ label {
     width: 70%;
 }
 
-#starter-wrapper h2 {
+#starter-container h2 {
     padding-bottom: 20px;
     margin-top: 0;
     font-family: 'Dancing Script', sans-serif;
@@ -320,7 +321,7 @@ label {
     font-family:'Cinzel', sans-serif; ;
 }
 
-#main-wrapper {
+#main-container {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -333,14 +334,14 @@ label {
     width: 70%;
 }
 
-#main-wrapper h2 {
+#main-container h2 {
     padding-bottom: 20px;
     margin-top: 0;
     font-family: 'Dancing Script', sans-serif;
     border-bottom: 3px dotted #222020;
 }
 
-#pizza-wrapper {
+#pizza-container {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -353,14 +354,14 @@ label {
     width: 70%;
 }
 
-#pizza-wrapper h2 {
+#pizza-container h2 {
     padding-bottom: 20px;
     margin-top: 0;
     font-family: 'Dancing Script', sans-serif;
     border-bottom: 3px dotted #222020;
 }
 
-#dessert-wrapper {
+#dessert-container {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -374,7 +375,7 @@ label {
     width: 70%;
 }
 
-#dessert-wrapper h2 {
+#dessert-container h2 {
     padding-bottom: 20px;
     margin-top: 0;
     font-family: 'Dancing Script', sans-serif;
@@ -395,8 +396,5 @@ label {
     justify-content: space-between;
  }
 
- footer {
-
- }
 
 }
