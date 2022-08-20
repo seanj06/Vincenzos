@@ -18,6 +18,7 @@ header {
     color: white;
 }
 
+
  header ul {
     display: flex;
      padding-right: 200px;
@@ -160,8 +161,6 @@ a:hover {
 #map {
     border: 3px solid #222020;
 }
-
-
 
      
 /* Footer Styles And Displays */
@@ -372,12 +371,6 @@ label {
     border-bottom: 3px dotted #222020;
 }
 
-
-
-
-
-
-
 /* Media Queries */
 
 /* For Mobile */
@@ -392,17 +385,20 @@ label {
     
     header {
         flex-direction: column;
-        justify-content: space-between;
+        justify-content: space-around;
     }
     
     header ul {
-        width: 100%;
-        margin: 0;
-        padding: 0;
-        
+        justify-content: space-around;
     }
 
     #hero-text {
         align-self: center;
     }
+
+   #map-wrapper {
+    max-width: 100%
+   } 
+
+
 }
