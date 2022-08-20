@@ -218,7 +218,7 @@ align-items: center;
 }
 
 #form-hero-text {
-     font-family: 'Dancing Script', sans-serif;
+    font-family: 'Dancing Script', sans-serif;
     font-size: 1.7em;
     
 }
@@ -266,69 +266,48 @@ label {
     font-size: 1.2em;
     font-family: 'Cinzel', sans-serif; 
 }
-
 /* menu styles */
-
-.menu-container {
-    display:flex;
+#menu-container {
+    display: flex;
     flex-direction: column;
-    justify-content: space-around;
-    flex-wrap: wrap;
-    ;
-}
-
-#menu-hero-text {
     justify-content: center;
-    align-items: flex-start;
+    align-items: center;
+    border: 7px solid #222020;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 40px;
 }
 
-.menu-container h1 {
+#menu-hero-text h1 {
     font-family: 'Dancing Script', sans-serif;
-    font-size: 2em;
-    text-align: center;
-}
-
-.sub-headings {
-    font-family: 'Dancing Script', sans-serif;
-    font-size: 1.7em;
-    text-align: center;
-}
-
-.menu-items {
-    font-size: 1.4em;
-    font-family: 'Cinzel', sans-serif;
-    text-align: center;
-    border: 3px solid black;
-    border-radius: 10px;
     padding-bottom: 20px;
-    background-color: #222020;
-    color: white;
+    border-bottom: 3px dotted #222020;
 }
 
 #starter-wrapper {
     display: flex;
+    flex-direction: column;
     justify-content: center;
+    align-items: center;
+    border: 5px solid #222020;
+    padding: 50px;
+    border-radius: 20px;
+}
+
+#starter-wrapper h2 {
     padding-bottom: 20px;
-    padding-right: 100px;
+    margin-top: 0;
+    font-family: 'Dancing Script', sans-serif;
+    border-bottom: 3px dotted #222020;
 }
 
-#main-wrapper {
-    display: flex;
-    justify-content: center;
+.menu-items {
+    font-family:'Cinzel', sans-serif; ;
 }
 
-#pizza-wrapper {
-    display: flex;
-    padding-top: 20px;
-    justify-content: center;
-}
 
-#dessert-wrapper {
-    display: flex;
-    padding-top: 20px;
-    justify-content: center;
-    padding-bottom: 20px;
-}
+
+
 
 
 /* Media Queries */
