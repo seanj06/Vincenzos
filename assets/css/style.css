@@ -305,6 +305,24 @@ label {
     font-family:'Cinzel', sans-serif; ;
 }
 
+#main-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid #222020;
+    padding: 50px;
+    border-radius: 20px;
+    margin-top: 30px;
+}
+
+#main-wrapper h2 {
+    padding-bottom: 20px;
+    margin-top: 0;
+    font-family: 'Dancing Script', sans-serif;
+    border-bottom: 3px dotted #222020;
+}
+
 
 
 
