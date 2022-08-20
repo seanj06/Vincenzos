@@ -201,6 +201,12 @@ footer h2 {
     font-size: 250%;
 }
 
+#disclaimer {
+    align-content: center;
+    font-family: 'Cinzel', sans-serif;
+    font-size: 1em;
+}
+
 /* Form syles  */
 
 #form-container {
