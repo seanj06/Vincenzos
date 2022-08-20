@@ -323,6 +323,44 @@ label {
     border-bottom: 3px dotted #222020;
 }
 
+#pizza-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid #222020;
+    padding: 50px;
+    border-radius: 20px;
+    margin-top: 30px;
+}
+
+#pizza-wrapper h2 {
+    padding-bottom: 20px;
+    margin-top: 0;
+    font-family: 'Dancing Script', sans-serif;
+    border-bottom: 3px dotted #222020;
+}
+
+#dessert-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid #222020;
+    padding: 50px;
+    border-radius: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#dessert-wrapper h2 {
+    padding-bottom: 20px;
+    margin-top: 0;
+    font-family: 'Dancing Script', sans-serif;
+    border-bottom: 3px dotted #222020;
+}
+
+
 
 
 
