@@ -155,11 +155,16 @@ a:hover {
     margin: 0;
     padding: 0;
     display: flex;
-    justify-content: center;;
+    justify-content: center;
 }
 
 #map {
     border: 3px solid #222020;
+}
+
+iframe {
+    display: block;
+    max-width: 100%;
 }
 
      
