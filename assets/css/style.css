@@ -11,8 +11,8 @@ header {
     display: flex;
     justify-content: space-between;
     height: 100%;
-    width: 100%;
-    align-items: flex-start;
+    max-width: 100%;
+    align-items: center; 
     background-color: #222020;
     border: 3px solid black;
     color: white;
@@ -21,9 +21,7 @@ header {
 
  header ul {
     display: flex;
-     padding-right: 200px;
-    padding-top: 75px;
-    width: 100%;
+    max-width: 100%;
     justify-content: space-around;
     font-size: 1.5em;
     list-style: none;
@@ -33,6 +31,11 @@ header {
     margin: 0;
     height: 100%;
     }
+
+    nav a {
+        padding: 0 10px;
+    }
+
 
     
 
@@ -383,29 +386,9 @@ label {
 /* For Mobile */
 
 @media screen and (max-width: 768px) {
-    body {
-        max-width: 100%;
-        margin: 0;
-        padding: 0;
-        
-    }
-    
-    header {
-        flex-direction: column;
-        justify-content: space-around;
-    }
-    
-    header ul {
-        justify-content: space-around;
-    }
-
-    #hero-text {
-        align-self: center;
-    }
-
-   #map-wrapper {
-    max-width: 100%
-   } 
-
+   
+  header {
+   flex-direction: column;
+ }
 
 }
