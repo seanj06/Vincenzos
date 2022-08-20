@@ -282,7 +282,7 @@ label {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    border: 40px solid #222020;
+   /* border: 40px solid #222020;*/
     border-radius: 20px;
     padding: 10px;
     margin: 40px;
@@ -396,5 +396,19 @@ label {
     justify-content: space-between;
  }
 
+ #starter-container {
+    width: 100%;
+ }
 
+ #main-container {
+    width: 100%;
+ }
+
+ #pizza-container {
+    width: 100%;
+ }
+
+ #dessert-container {
+    width: 100%;
+ }
 }
