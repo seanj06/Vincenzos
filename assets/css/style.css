@@ -181,6 +181,9 @@ footer {
     background-color:#222020;
     border: 3px solid black;
     color: white;
+    height: auto;
+    width: 100%;
+    margin: 0;
 }
 
 
@@ -263,9 +266,9 @@ select {
 
 input[type=submit] {
     margin-top: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 20px; 
     border-radius: 15px;
-    padding: 15px;
+   /padding: 15px; 
     background-color:#222020;
     font-size: 1.7em;
     color: white;
@@ -283,9 +286,9 @@ label {
     justify-content: center;
     align-items: center;
    /* border: 40px solid #222020;*/
-    border-radius: 20px;
-    padding: 10px;
-    margin: 40px;
+  /*   border-radius: 20px; /*
+   /* padding: 10px;*/
+   /* margin: 40px; */
 }
 
 #menu-container > b {
@@ -397,22 +400,23 @@ label {
  }
 
  #starter-container {
-    width: 100%;
+   max-width: 100%;
  }
 
  #main-container {
-    width: 100%;
+    max-width: 100%;
  }
 
  #pizza-container {
-    width: 100%;
+    max-width: 100%;
  }
 
  #dessert-container {
-    width: 100%;
+    max-width: 100%;
  }
 
  #form {
-    width: 100%;
+   max-width: 90%
  }
+
 }
