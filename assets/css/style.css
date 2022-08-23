@@ -223,7 +223,7 @@ footer h2 {
 }
 
 #disclaimer {
-    align-content: flex-start;
+    text-align: center;
     font-family: 'Cinzel', sans-serif;
     font-size: 1em;
 }
@@ -414,8 +414,8 @@ label {
  }
 
  #about p {
-   margin-left: 5px;
-   margin-right: 5px;
+   margin-left: 15px;
+   margin-right: 15px;
  }
 
  #starter-container {
