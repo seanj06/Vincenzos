@@ -291,10 +291,10 @@ label {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-   /* border: 40px solid #222020;*/
-  /*   border-radius: 20px; /*
-   /* padding: 10px;*/
-   /* margin: 40px; */
+  /*  border: 40px solid #222020;
+    border-radius: 20px; 
+    padding: 10px;
+    margin: 40px; */ 
 }
 
 #menu-container > b {
@@ -399,10 +399,18 @@ label {
    
   header {
    flex-direction: column;
+   justify-content: space-between;
  }
 
  header ul {
-    justify-content: space-between;
+   /* justify-content: space-between; */
+   justify-content: flex-end;
+
+ }
+
+ #about p {
+   margin-left: 5px;
+   margin-right: 5px;
  }
 
  #starter-container {
