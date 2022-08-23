@@ -401,7 +401,10 @@ label {
 /* For Mobile */
 
 @media screen and (max-width: 768px) {
-   
+   body {
+    font-size: 70%;
+   }
+
   header {
    flex-direction: column;
    justify-content: space-between;
