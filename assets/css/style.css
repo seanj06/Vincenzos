@@ -438,4 +438,8 @@ label {
     width: 90%;
 }
 
+#contact {
+    flex-direction: column;
+}
+
 }
