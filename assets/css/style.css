@@ -84,7 +84,7 @@ a:hover {
     color: white;
     border: 3px solid black;
     margin : 0;
-    height: 100%;
+    height: auto;
     width: 100%;
 }
 
@@ -312,7 +312,7 @@ label {
     border-bottom: 3px dotted #222020;
 }
 
-#starter-container {
+.containers {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -322,9 +322,16 @@ label {
     border-radius: 20px;
     background-color: white;
     width: 70%;
+    margin: 30px 0;
 }
 
-#starter-container h2 {
+.containers:hover {
+    border: 15px solid gray;
+    padding: 50px;
+    border-radius: 20px;
+}
+
+.containers h2 {
     padding-bottom: 20px;
     margin-top: 0;
     font-family: 'Dancing Script', sans-serif;
@@ -335,66 +342,6 @@ label {
     font-family:'Cinzel', sans-serif; ;
 }
 
-#main-container {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    border: 15px solid #222020;
-    padding: 50px;
-    border-radius: 20px;
-    margin-top: 30px;
-    background-color: white;
-    width: 70%;
-}
-
-#main-container h2 {
-    padding-bottom: 20px;
-    margin-top: 0;
-    font-family: 'Dancing Script', sans-serif;
-    border-bottom: 3px dotted #222020;
-}
-
-#pizza-container {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    border: 15px solid #222020;
-    padding: 50px;
-    border-radius: 20px;
-    margin-top: 30px;
-    background-color: white;
-    width: 70%;
-}
-
-#pizza-container h2 {
-    padding-bottom: 20px;
-    margin-top: 0;
-    font-family: 'Dancing Script', sans-serif;
-    border-bottom: 3px dotted #222020;
-}
-
-#dessert-container {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    border: 15px solid #222020;
-    padding: 50px;
-    border-radius: 20px;
-    margin-top: 30px;
-    margin-bottom: 30px;
-    background-color: white;
-    width: 70%;
-}
-
-#dessert-container h2 {
-    padding-bottom: 20px;
-    margin-top: 0;
-    font-family: 'Dancing Script', sans-serif;
-    border-bottom: 3px dotted #222020;
-}
 
 /* Media Queries */
 
