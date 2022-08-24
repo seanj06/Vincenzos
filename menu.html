@@ -18,25 +18,26 @@
 <body>
     <!--Hero logo-->
     <header>
-        <div id="hero-text">
-            <h1>Vincenzo's<br>Fine dining</h1>
-        </div>
-        <!--Navigation Links-->
-        <div id="navbar">
-            <nav>
-                <ul>
-                    <li>
-                        <a href="index.html">Home</a>
-                    </li>
-                    <li>
-                        <a href="menu.html" id="menu">Menu</a>
-                    </li>
-                    <li>
-                        <a href="form.html">Book Online</a>
-                    </li>
-                </ul>
-            </nav>
-        </div>
+        <section class="top-nav">
+            <div id="hero-text">
+                <h1>Vincenzo's<br>Fine dining</h1>
+            </div>
+            <input id="menu-toggle" type="checkbox" />
+            <label class='menu-button-container' for="menu-toggle">
+            <div class='menu-button'></div>
+          </label>
+            <ul class="menu">
+                <li>
+                    <a href="index.html" id="home">Home</a>
+                </li>
+                <li>
+                    <a href="menu.html" id="menu">Menu</a>
+                </li>
+                <li>
+                    <a href="form.html" id="book">Book Online</a>
+                </li>
+            </ul>
+        </section>
     </header>
     <div id="menu-container">
         <!--Menu main Header-->
