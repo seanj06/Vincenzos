@@ -107,15 +107,17 @@ a:hover {
 /* Photo Section Styles */
 
 #photos {
-    display: flex;
-    height: 100%;
-    width: 100%
-}
-
-#photos > img {
-    max-width: 100%;
-    height: auto;
-    width: 25%;
+    background: url(../images/pexels-photo-735869.webp);
+    height: 50vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;
+    position: relative;
+    width: 100%;
+    display: block;
+    border: 1px solid black; 
+    image-rendering: -webkit-optimize-contrast;
+    
 }
 
 /* Opening Times Section Styles */
@@ -390,6 +392,10 @@ label {
 
 #contact {
     flex-direction: column;
+}
+
+#media {
+    padding-right: 25px;
 }
 
 }
