@@ -395,11 +395,12 @@ label {
 
 /* Media Queries */
 
-/* For Mobile */
+/* Landsacape mobile and tablet */
 
 @media screen and (max-width: 768px) {
    body {
-    font-size: 70%;
+    font-size: 80%;
+    max-width: 100%;
    }
  
 /* hamburger button */
@@ -413,7 +414,7 @@ label {
    /* margin-top: 50px; */
     left: 0;
     flex-direction: column;
-    width: 100%;
+    width: 90%;
     justify-content: center;
     align-items: center; 
     overflow: visible;
