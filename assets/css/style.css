@@ -10,20 +10,33 @@ body {
 }
 
 /* Header Styles and displays */
+header {
+    height: auto;
+    max-width: 100%;
+}  
 
 #hero-text {
     font-family:'Dancing Script', sans-serif;
     font-size: 1.7em;
+    padding-bottom: 20px;
 }
 
 .menu a {
     color: white;
-    list-style: none;
+    text-decoration: none;
 }
 
-.menu a:hover {
+a:hover {
     color: gray;
 } 
+
+.nav-style {
+    border: 4px solid white;
+    border-radius: 10px;
+    padding: 2px;
+}
+
+
 
 /* hamburger menu taken from https://alvarotrigo.com/blog/hamburger-menu-css/ */
 
@@ -136,20 +149,17 @@ body {
 
 /* Photo Section Styles */
 
+
 #photos {
-    background: url(../images/pexels-photo-735869.webp);
-    height: 30vh;
-    background-repeat: no-repeat;
-    background-size: cover; 
-    background-position: 50% 50%; 
-    width: 100%;
-    display: block;
-    border: 1px solid black; 
-    image-rendering: -webkit-optimize-contrast;
-    margin: 0;
-    padding: 0;
-    position: revert;
-    
+    display: flex;
+    height: 100%;
+    width: 100%
+}
+
+#photos > img {
+    max-width: 100%;
+    height: auto;
+    width: 25%;
 }
 
 /* Opening Times Section Styles */
@@ -414,7 +424,7 @@ label {
     transition: height 400ms cubic-bezier(0.23, 1, 0.32, 1);
   }
   #menu-toggle:checked ~ .menu li {
-    border: 1px solid #333;
+    border: 1px solid white;
     height: 2.5em;
     padding: 0.5em; 
     transition: height 400ms cubic-bezier(0.23, 1, 0.32, 1);
@@ -429,7 +439,7 @@ label {
     background-color: #222;
   }
   .menu > li:not(:last-child) {
-    border-bottom: 1px solid #444;
+    border-bottom: 1px solid white;
   }
 
  #about p {
