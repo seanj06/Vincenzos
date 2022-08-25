@@ -38,7 +38,7 @@ a:hover {
 
 
 
-/* hamburger menu taken from https://alvarotrigo.com/blog/hamburger-menu-css/ */
+/*hamburger menu taken from https://alvarotrigo.com/blog/hamburger-menu-css/ */
 
 .top-nav {
     display: flex;
@@ -396,12 +396,20 @@ label {
 
 /* Media Queries */
 
-/* Landsacape mobile and tablet */
+/* For Tablets and small desktop 992 pixels and down */
+
+@media screen and (max-width: 992px) {
+   body {
+    font-size: 90%;
+   }
+
+}
+
+/* For small tablets and medium phones 760 pixels and down*/
 
 @media screen and (max-width: 768px) {
    body {
     font-size: 80%;
-    max-width: 100%;
    }
  
 /* hamburger button */
