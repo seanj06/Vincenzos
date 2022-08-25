@@ -411,10 +411,10 @@ label {
   .menu {
     position: absolute;
     top: 0;
-   /* margin-top: 50px; */
+    margin-top: 95px;
     left: 0;
     flex-direction: column;
-    width: 90%;
+    width: 100%;
     justify-content: center;
     align-items: center; 
     overflow: visible;
