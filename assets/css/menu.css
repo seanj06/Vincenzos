@@ -278,9 +278,10 @@ footer h2 {
   /* menu page */
  
  .containers {
-     max-width:80%;
-     height: auto;
-    
+     padding: 10px;
+     font-size: 1.1em;
+     border: 10px solid #222020;
+     width: 80%;
  }
  
  
@@ -300,9 +301,10 @@ footer h2 {
 
  @media screen and (max-width: 600px) {
     .containers {
-        padding: 0;
+        padding: 5px;
         font-size: 1em;
         border: 5px solid #222020;
+        width: 80%;
     }
  }
 
