@@ -56,7 +56,6 @@ a:hover {
     display: flex;
     flex-direction: row;
     list-style-type: none;
-    text-decoration-color: none;
     margin: 0;
     padding: 0;
     font-family: 'Dancing Script', sans-serif;
