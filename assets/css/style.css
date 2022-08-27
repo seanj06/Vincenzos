@@ -153,12 +153,25 @@ a:hover {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
+  align-items: center; 
+  height: 30vh;
+  background-image: url(../images/pexels-photo-67468.webp);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 60vh;
+  top:0px;
+  left:0px;
+  width: 100%;
 }
+
 
 #photo-section  h2 {
   font-family: 'Dancing Script', sans-serif;
-  font-size: 1.7em;
+  font-size: 2em;
+  border: 7px solid black;
+  border-radius: 15px;
+  padding: 10px;
 }
 
 
