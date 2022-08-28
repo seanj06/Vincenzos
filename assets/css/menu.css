@@ -167,7 +167,7 @@ a:hover {
 .menu-image {
   width: 125px;
   height:125px;
-  border: 5px solid #222020;
+  border: 10px solid #222020;
   border-radius: 50%;
   overflow: hidden;
   margin-bottom: 20px;
@@ -292,11 +292,16 @@ footer h2 {
  
   /* menu page */
  
- .containers {
-     padding: 10px;
+ .item-containers {
+     padding: 15px;
      font-size: 1.1em;
      border: 10px solid #222020;
      width: 80%;
+ }
+
+ .menu-image {
+  height: 100px;
+  width: 100px;
  }
  
  
@@ -315,11 +320,16 @@ footer h2 {
  /* For small phones 600 pixels and down */
 
  @media screen and (max-width: 600px) {
-    .containers {
-        padding: 5px;
+    .item-containers {
+        padding: 10px;
         font-size: 1em;
         border: 5px solid #222020;
         width: 80%;
+    }
+
+    .menu-image {
+      height: 75px;
+      width: 75px;
     }
  }
 
