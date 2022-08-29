@@ -337,7 +337,7 @@ footer h2 {
    /* photo section */
 
    .heading-container > h2{
-    font-size: 1em;
+    font-size: 1.3em;
    }
 
 }
@@ -406,6 +406,11 @@ footer h2 {
     height: 15vh;
  }
 
+ .heading-container > h2{
+  font-size: 1.2em;
+  padding-left: 15px;
+ }
+
 
 /* footer */
 
@@ -425,6 +430,10 @@ footer h2 {
     #photos {
         height: 12vh;
     }
+
+    .menu {
+      margin-top: 85px;
+    }
 }
 
 /* For small phones 450px and down */
@@ -435,6 +444,10 @@ footer h2 {
     margin: 5px;
     height: 50%;
   }
+
+  .heading-container > h2{
+    font-size: 0.9em;
+   }
 }
 
   
