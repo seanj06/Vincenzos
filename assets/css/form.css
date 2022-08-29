@@ -38,8 +38,6 @@ a:hover {
     padding: 2px;
 }
 
-
-
 /*hamburger menu taken from https://alvarotrigo.com/blog/hamburger-menu-css/ */
 
 .top-nav {
@@ -130,22 +128,19 @@ a:hover {
     align-items: center;
     margin: 0;
     height: auto;
-    
-    }
+   }
     
     #form-hero-text {
         font-family: 'Dancing Script', sans-serif;
         font-size: 1.7em;
-        
-    }
+   }
     
     #form {
         font-size: 1.1em;
         display: flex;
         flex-direction: column;
         width: 50%;
-        
-    }
+   }
     
     input[type=text] {
         margin-top: 20px;
