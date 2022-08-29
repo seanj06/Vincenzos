@@ -315,3 +315,11 @@ footer h2 {
  }
  
  }
+
+ /* For small phones 600 pixels and down */
+
+ @media screen and (max-width: 600px) {
+  .menu {
+    margin-top: 85px;
+  }
+ }
