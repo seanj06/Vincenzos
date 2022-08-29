@@ -193,7 +193,7 @@ a:hover {
   opacity: 0.4;
   background-color: gray;
   animation-name: boxslide;
-  animation-duration: 1s;
+  animation-duration: 3s;
 }
 
 #star {
@@ -202,11 +202,11 @@ a:hover {
 
 @keyframes boxslide {
   from {
-    height:30%
+    margin-bottom: 500px;
   }
 
   to {
-    height: 60%;
+    margin: 0;
   }
 }
 
