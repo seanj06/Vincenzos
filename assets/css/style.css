@@ -157,12 +157,11 @@ a:hover {
   align-items:center;
   font-family: 'Dancing script', sans-serif;
   font-size: 1.3em;
-  border: 7px solid black;
+  border: 5px solid black;
   border-radius: 15px;
   width: 40%;
   height: 60%;
-  opacity: 0.6;
-  background-color: gray;
+  background-color: rgba(128, 128, 128, 0.6);
   animation-name: boxslide;
   animation-duration: 2s;
 }
