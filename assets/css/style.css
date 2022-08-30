@@ -161,10 +161,10 @@ a:hover {
   border-radius: 15px;
   width: 40%;
   height: 60%;
-  opacity: 0.4;
+  opacity: 0.6;
   background-color: gray;
   animation-name: boxslide;
-  animation-duration: 3s;
+  animation-duration: 2s;
 }
 
 
@@ -448,6 +448,7 @@ footer h2 {
   .heading-container > h2{
     font-size: 0.9em;
    }
+
 }
 
   
