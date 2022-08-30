@@ -320,7 +320,7 @@ footer h2 {
  
  }
 
- /* For small phones 600 pixels and down */
+ /* For phones 600 pixels and down */
 
  @media screen and (max-width: 600px) {
     .item-containers {
@@ -340,5 +340,13 @@ footer h2 {
       margin-top: 85px;
     }
  }
+
+ /* For small phones 450px and down */
+
+@media screen and (max-width: 450px) {
+  .item-containers {
+    font-size: 0.8em;
+  }
+}
 
  
