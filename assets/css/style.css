@@ -450,6 +450,7 @@ footer h2 {
 /* For small phones 450px and down */
 
 @media screen and (max-width: 450px) {
+  
   .heading-container {
     padding: 5px;
     height: 50%;
@@ -464,7 +465,8 @@ footer h2 {
 /* extra small devices 320px and down */
 
 @media screen and (max-width: 320px) {
-   #photo-section > h2 {
+   
+  #photo-section > h2 {
     font-size: 1.7em;
    }
 }
