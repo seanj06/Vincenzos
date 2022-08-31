@@ -12,7 +12,13 @@ Vincenzo's fine dining is a static 3 page website for a fictional Italian Restau
 
 ![Headerimage](assets/README-images/header.jpg)
 
-*The navigation bar transforms into a hamburger menu for tablet and mobile devices under 768 pixels wide.
+* The navigation bar transforms into a hamburger menu for tablet and mobile devices under 768 pixels wide.
+
+![ClosedHamburgerMenu](assets/README-images/hamburger-menu-closed.jpg)
+
+* When clicked the menu opens into 3 columns with the page links.
+
+![OpenHamburgerMenu](assets/README-images/hamburger-menu-open.jpg)
 
 
 
