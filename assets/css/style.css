@@ -139,6 +139,12 @@ a:hover {
   width: 100%;
 }
 
+#photo-section > h2 {
+  font-family: 'Dancing Script', sans-serif;
+  font-size: 2em;
+  border-bottom: 5px double #222020;
+}
+
 #photo-container {
   display: flex;
   width: 100%;
