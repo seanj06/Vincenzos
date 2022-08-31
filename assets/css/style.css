@@ -143,6 +143,7 @@ a:hover {
   font-family: 'Dancing Script', sans-serif;
   font-size: 2em;
   border-bottom: 5px double #222020;
+  position: absolute;
 }
 
 #photo-container {
@@ -170,6 +171,7 @@ a:hover {
   background-color: rgba(128, 128, 128, 0.5);
   animation-name: boxslide;
   animation-duration: 2s;
+  margin-bottom: -50px;
 }
 
 
@@ -183,7 +185,7 @@ a:hover {
   }
 
   to {
-    margin: 0;
+    margin-bottom: -50px;
   }
 }
   
