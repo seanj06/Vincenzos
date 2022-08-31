@@ -1,3 +1,19 @@
 # Vincenzo's Fine Dining
-## Vincenzo's fine dining is a static 3 page website for a fictional Italian Restaurant, complete with a homepage, a menu page and a book online page.
+Vincenzo's fine dining is a static 3 page website for a fictional Italian Restaurant, complete with a homepage, a menu page and a book online page.
+
 ![AmiResponsive](assets/README-images/amiresponsive.jpg)
+
+## Features
+
+### 1. Header
+* The Header contains both the Vincenzos fine dining logo to the left of the page and the navigation bar to the right of the page.
+* The colors were chosen in contrast with each other for easy readability
+* The navigation bar links to the 3 pages Home, Menu and Book Online.There is a hover feature implemented which changes the color of the hovered over menu to Gray.There is also a current page feature which shows the user what page they are currently on with white lines around the link heading.
+
+![Headerimage](assets/README-images/header.jpg)
+
+*The navigation bar transforms into a hamburger menu for tablet and mobile devices under 768 pixels wide.
+
+
+
+
