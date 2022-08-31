@@ -136,7 +136,7 @@ a:hover {
     font-family: 'Dancing Script', sans-serif;
     padding-bottom: 20px;
     border-bottom: 3px dotted #222020;
-    font-size: 1.8em;
+    font-size: 2em;
 }
 
 .item-containers {
@@ -158,6 +158,7 @@ a:hover {
     margin-top: 0;
     font-family: 'Dancing Script', sans-serif;
     border-bottom: 3px dotted #222020;
+    font-size: 2em;
 }
 
 .menu-items {
@@ -330,6 +331,10 @@ footer h2 {
         width: 80%;
     }
 
+    .item-containers h2 {
+      font-size: 2em;
+    }
+
     .menu-image {
       height: 75px;
       width: 75px;
@@ -346,6 +351,10 @@ footer h2 {
 @media screen and (max-width: 450px) {
   .item-containers {
     font-size: 0.8em;
+  }
+
+  .item-containers h2 {
+    font-size: 2em;
   }
 }
 
