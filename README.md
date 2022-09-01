@@ -37,7 +37,7 @@ Vincenzo's fine dining is a static 3 page website for a fictional Italian Restau
 ### 4. Opening hours section
 * This section gives the opening hours of the restaurant.
 
-![opening-times](assets/README-images/opening-times.jpg)
+![opening-hours](assets/README-images/opening-hours.jpg)
 
 ### 5. Where to find us section
 * This section gives an overview of exactly where the restaurant is loacated and gives information on nearby parking.
