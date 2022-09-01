@@ -20,6 +20,15 @@ Vincenzo's fine dining is a static 3 page website for a fictional Italian Restau
 
 ![OpenHamburgerMenu](assets/README-images/hamburger-menu-open.jpg)
 
+## 2. Hero Photo section
+* This section has a background image of a nice restaurant which gives the users an idea of what to expect when coming to the retaurant.
+
+* The section has a heading with the slogan "The Authentic Dining Experience".
+
+* This section includes 2 award transparent boxes which slide down from the top of the page when the page is loaded or refreshed.
+
+![photosection](assets/README-images/photo-section.jpg)
+
 
 
 
