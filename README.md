@@ -34,17 +34,28 @@ Vincenzo's fine dining is a static 3 page website for a fictional Italian Restau
 
 ![about-us-section](assets/README-images/aboutus.jpg)
 
-## 4. Opening hours section
+### 4. Opening hours section
 * This section gives the opening hours of the restaurant.
 
 ![opening-times](assets/README-images/opening-times.jpg)
 
-## 5. Where to find us section
+### 5. Where to find us section
 * This section gives an overview of exactly where the restaurant is loacated and gives information on nearby parking.
 
 * The section also has an interactive map with a pin location for the restaurant.
 
 ![where-to-find-us](assets/README-images/where-to-find-us.jpg)
+
+### 6. Footer
+* The footer contains 3 clickable links to Facebook, Twitter and Instagram, which all open in a new tab.
+
+* The section also contains the restaurant contact phone number and contact email address.
+
+* The bottom of the footer contains a disclaimer explaining that this website is fictional and made for project purposes only.
+
+![footer](assets/README-images/footer.jpg)
+
+
 
 
 
