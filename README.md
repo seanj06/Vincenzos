@@ -29,6 +29,11 @@ Vincenzo's fine dining is a static 3 page website for a fictional Italian Restau
 
 ![photosection](assets/README-images/photo-section.jpg)
 
+## 3. About us section
+* This section gives an overview of where the restaurant is located. It also gives a brief history of when the website opened its doors and tells the user that all ingredients are locally sourced and all meals are made fresh.
+
+![about-us-section](assets/README-images/aboutus.jpg)
+
 
 
 
