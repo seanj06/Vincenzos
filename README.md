@@ -55,7 +55,7 @@ Vincenzo's fine dining is a static 3 page website for a fictional Italian Restau
 
 ![footer](assets/README-images/footer.jpg)
 
-## 8. Menu Page
+### 8. Menu Page
 
 * This page contains an online menu for users to look at the meals available to order at the restaurant.
 
@@ -63,13 +63,44 @@ Vincenzo's fine dining is a static 3 page website for a fictional Italian Restau
 
 ![menu1](assets/README-images/menu1.jpg)
 
-## 9. Book online page
+### 9. Book online page
 * This page has a form for users to enter their details to reserve a table online.
 
 * The form collects the users First name, Last name, Number of people, preferred time slot and any additional requests.
 
 ![book-online1](assets/README-images/book-online1.jpg)
 ![book-online2](assets/README-images/book-online2.jpg)
+
+## Testing
+
+* I have tested this website works on all browser types.
+
+* I have tested the site on various screen sizes and devices using devtools and confirmed it is responsive to all sizes.
+
+* I have tested all of the clickable links work and open in new tabs and have tested that all form elements in the form section work correctly and are required to submit.
+
+### Validator Testing
+
+* No errors were shown when putting the code through both the w3c html validator and the jigsaw css validator.
+
+![w3c](assets/README-images/w3c.jpg)
+![jigsaw](assets/README-images/jigsaw.jpg)
+
+* ### Accessibility
+
+* I confirm that all 3 pages return a high accessibility rating when running them through the lighthouse tool on devtools.
+
+* Home page lighthouse
+
+![lighthouse-home](assets/README-images/home-page-lighthouse.jpg)
+
+* Menu page lighthouse
+
+![lighthouse-menu](assets/README-images/menu-page-lighthouse.jpg)
+
+* Book online lighthouse
+
+![lighthouse-book-online](assets/README-images/book-online-lighthouse.jpg)
 
 
 
