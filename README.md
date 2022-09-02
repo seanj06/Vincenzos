@@ -102,6 +102,42 @@ Vincenzo's fine dining is a static 3 page website for a fictional Italian Restau
 
 ![lighthouse-book-online](assets/README-images/book-online-lighthouse.jpg)
 
+### Bugs
+
+#### Solved bugs
+
+* When testing my site for responsiveness i realised that the text in all paragraph areas of the site was overflowing out of the page on smaller screen sizes. To fix this i changed font-size propertys from px to em.
+
+* When adding my hamburger menu i noticed that when expanded the menu was wider than the page width which caused there to be a horizontal scroll bar. To fix this i removed any default margin and padding from the menu.
+
+* When testing the menu page on smaller screen devices I noticed that the menu section containers were overflowing to the side of the screen. To fix this i added a media query to re size the containers appropriately.
+
+#### Unsolved bugs
+
+* There are no unsolved bugs.
+
+## Deployment
+
+* This website was deployed on github pages.
+
+## Credits
+
+### Content
+
+* Template for readme taken from Code Institute sample readme.
+
+* Hamburger menu taken from https://alvarotrigo.com/blog/hamburger-menu-css/ 
+
+* The 2 fonts used on this site "Dancing script" and "Cinzel" taken from https://fonts.google.com
+
+### Media 
+
+* All site images were taken from https://www.pexels.com/
+
+* Social media logos on footer taken from https://fontawesome.com/
+
+
+
 
 
 
