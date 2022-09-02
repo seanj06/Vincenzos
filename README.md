@@ -4,7 +4,7 @@ Vincenzo's fine dining is a static 3 page website for a fictional Italian Restau
 ![AmiResponsive](assets/README-images/amiresponsive.jpg)
 
 ## Features
-
+---
 ### 1. Header
 * The Header contains both the Vincenzos fine dining logo to the left of the page and the navigation bar to the right of the page.
 * The colors were chosen in contrast with each other for easy readability
@@ -72,7 +72,7 @@ Vincenzo's fine dining is a static 3 page website for a fictional Italian Restau
 ![book-online2](assets/README-images/book-online2.jpg)
 
 ## Testing
-
+---
 * I have tested this website works on all browser types.
 
 * I have tested the site on various screen sizes and devices using devtools and confirmed it is responsive to all sizes.
@@ -117,11 +117,11 @@ Vincenzo's fine dining is a static 3 page website for a fictional Italian Restau
 * There are no unsolved bugs.
 
 ## Deployment
-
+---
 * This website was deployed on github pages.
 
 ## Credits
-
+---
 ### Content
 
 * Template for readme taken from Code Institute sample readme.
