@@ -63,6 +63,10 @@ Vincenzo's fine dining is a static 3 page website for a fictional Italian Restau
 
 ![menu1](assets/README-images/menu1.jpg)
 
+* The menu page changes layout to 1 section per line for devices 768 pixels and under.
+
+![menu2](assets/README-images/menu2.jpg)
+
 ### 9. Book online page
 * This page has a form for users to enter their details to reserve a table online.
 
