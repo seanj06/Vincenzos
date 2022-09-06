@@ -23,6 +23,11 @@ header {
     padding-bottom: 10px;
 }
 
+.top-nav a {
+  color: white;
+  text-decoration: none;
+}
+
 .menu a {
     color: white;
     text-decoration: none;

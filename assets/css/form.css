@@ -20,15 +20,21 @@ header {
 #hero-text {
     font-family:'Dancing Script', sans-serif;
     font-size: 1.5em;
-    padding-bottom: 10px;
+    padding-bottom: 10px; 
 }
+
 
 .menu a {
     color: white;
     text-decoration: none;
 }
 
-a:hover {
+.top-nav a {
+  color: white;
+  text-decoration: none;
+}
+
+ a:hover {
     color: gray;
 } 
 

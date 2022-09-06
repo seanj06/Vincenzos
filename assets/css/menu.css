@@ -23,6 +23,11 @@ header {
     padding-bottom: 10px;
 }
 
+.top-nav a {
+  color: white;
+  text-decoration: none;
+}
+
 .menu a {
     color: white;
     text-decoration: none;
@@ -178,6 +183,7 @@ a:hover {
   height: 100%;
   width: 100%;
 }
+
 
 /* Footer Styles And Displays */
 
