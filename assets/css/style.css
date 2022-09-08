@@ -133,7 +133,10 @@ a:hover {
   justify-content: flex-start;
   align-items: center; 
   height: 30vh;
-  background-image: url(../images/pexels-photo-67468.webp);
+  background-image: linear-gradient(
+    rgba(0, 0, 0, 0.5),
+    rgba(0, 0, 0, 0.5)),
+     url(../images/pexels-photo-67468.webp);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -146,8 +149,9 @@ a:hover {
 #photo-section > h2 {
   font-family: 'Dancing Script', sans-serif;
   font-size: 2em;
-  border-bottom: 5px double #222020;
+  border-bottom: 5px double white;
   margin-bottom: 0;
+  color: white;
 }
 
 #photo-container {
