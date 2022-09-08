@@ -172,7 +172,7 @@ a:hover {
   border-radius: 15px;
   width: 40%;
   height: 70%;
-  background-color: rgba(128, 128, 128, 0.5);
+  background-color: rgba(256, 256, 256, 0.6);
   animation-name: boxslide;
   animation-duration: 2s;
   margin-bottom: -50px;
@@ -479,7 +479,8 @@ footer h2 {
 
 /* Landscape mobile */
 
-@media screen and (orientation:landscape){
+@media screen and (orientation:landscape)
+and (max-width: 900px){
   
   /* Header */
 
