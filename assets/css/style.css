@@ -151,7 +151,7 @@ a:hover {
   font-size: 2em;
   border-bottom: 5px double white;
   margin-bottom: 0;
-  color: white;
+  color: beige;
 }
 
 #photo-container {
@@ -176,7 +176,7 @@ a:hover {
   border-radius: 15px;
   width: 40%;
   height: 70%;
-  background-color: rgba(256, 256, 256, 0.6);
+  background-color: rgba(256, 256, 256, 0.5);
   animation-name: boxslide;
   animation-duration: 2s;
   margin-bottom: -50px;
