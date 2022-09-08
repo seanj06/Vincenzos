@@ -325,3 +325,29 @@ footer h2 {
     margin-top: 85px;
   }
  }
+
+ /* Landscape mobile */
+
+@media screen and (orientation:landscape){
+  
+  /* Header */
+
+  #hero-text{
+    font-size: 1.2em;
+  }
+
+  .heading-container {
+    margin-bottom: 0;
+  }
+
+  .star {
+    margin-bottom: 10px;
+  }
+}
+
+@media screen and (orientation:landscape)
+and (max-width: 768px) {
+  .menu {
+    margin-top: 60px;
+  }
+}

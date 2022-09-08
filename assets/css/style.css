@@ -370,6 +370,7 @@ footer h2 {
 .menu-button-container {
     display: flex;
   }
+
   .menu {
     position: absolute;
     top: 0;
@@ -476,6 +477,44 @@ footer h2 {
    }
 }
 
+/* Landscape mobile */
+
+@media screen and (orientation:landscape){
+  
+  /* Header */
+
+  #hero-text{
+    font-size: 1.2em;
+  }
+
+  .heading-container {
+    margin-bottom: 0;
+  }
+
+  .star {
+    margin-bottom: 10px;
+  }
+
+  /* Award section keyframe */
+
+  @keyframes boxslide {
+    from {
+      margin-bottom: 500px;
+    }
+  
+    to {
+      margin-bottom: 0px;
+    }
+  }  
+    
+}
+
+@media screen and (orientation:landscape)
+and (max-width: 768px) {
+  .menu {
+    margin-top: 60px;
+  }
+}
   
   
   
