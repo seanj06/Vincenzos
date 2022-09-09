@@ -19,7 +19,7 @@ header {
 
 #hero-text {
     font-family:'Dancing Script', sans-serif;
-    font-size: 1.5em;
+    font-size: 1.7em;
     padding-bottom: 10px;
 }
 
@@ -148,10 +148,10 @@ a:hover {
 
 #photo-section > h2 {
   font-family: 'Dancing Script', sans-serif;
-  font-size: 2em;
+  font-size: 2.3rem;
   border-bottom: 5px double white;
   margin-bottom: 0;
-  color: beige;
+  color: ghostwhite;
 }
 
 #photo-container {
@@ -216,7 +216,7 @@ a:hover {
 #about h2{
     display: flex;
     justify-content: center;
-    font-size: 1.8em;
+    font-size: 2.3rem;
     font-family: 'Dancing Script', sans-serif;
     margin-left: 5px;
     margin-right: 5px;
@@ -241,7 +241,7 @@ a:hover {
 
 #times h2 {
     font-family: 'Dancing Script', sans-serif;
-    font-size: 1.5em;
+    font-size: 2.3rem;
     border-bottom: 3px groove #222020;
 }
 
@@ -262,7 +262,7 @@ a:hover {
 
 #map-hero-text {
     font-family: 'Dancing Script', sans-serif;
-    font-size: 1.3em;
+    font-size: 1.6em;
 }
 
 #map-text-container {
@@ -308,6 +308,10 @@ footer {
     margin: 0;
 }
 
+#footer-hero-text {
+  font-size: 1.7em;
+}
+
 
 footer h2 {
     font-family: 'Dancing Script', sans-serif;
@@ -336,7 +340,7 @@ footer h2 {
 }
 
 #media li:hover {
-    font-size: 250%;
+    font-size: 200%;
 }
 
 #disclaimer {
@@ -454,6 +458,10 @@ footer h2 {
 
     .menu {
       margin-top: 85px;
+    }
+
+    #photo-section > h2 {
+      font-size: 2em;
     }
 }
 

@@ -198,6 +198,9 @@ footer {
     margin: 0;
 }
 
+#footer-hero-text {
+  font-size: 1.7em;
+}
 
 footer h2 {
     font-family: 'Dancing Script', sans-serif;
