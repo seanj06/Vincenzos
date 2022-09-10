@@ -206,7 +206,7 @@ Vincenzo's fine dining is a static 3 page website for a fictional Italian Restau
   - Click save and the page will automatically refresh.
 
   - Navigate back to the pages section and the live link of the published will now be there.
-  - [Link_to_site](https://seanj06.github.io/Vincenzos/)
+  - [Link to site](https://seanj06.github.io/Vincenzos/)
 
 
 ## Credits
