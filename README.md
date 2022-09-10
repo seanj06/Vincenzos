@@ -142,37 +142,43 @@ Vincenzo's fine dining is a static 3 page website for a fictional Italian Restau
 
   - I confirm that all 3 pages return a high accessibility rating when running them through the lighthouse tool on devtools.
 
-  - Home page lighthouse desktop
+  </details>
+  <details><summary>Home page lighthouse desktop</summary>
   
    ![lighthouse-home](assets/README-images/home-page-lh-desk.jpg)
 
-  - Home Page Lighthouse mobile
+  </details>
+  <details><summary>Home page lighthouse Mobile</summary>
 
   ![lighthouse-mobile-home](assets/README-images/home-page-lh-mobile.jpg)
 
-
-
-  - Menu page lighthouse Desktop
+  </details>
+  <details><summary>Menu page lighthouse Desktop</summary>
 
   ![lighthouse-menu](assets/README-images/menu-page-lh-desk.jpg)
 
-  - Menu page lighthouse Mobile
+  </details>
+  <details><summary>Menu page lighthouse Mobile</summary>
 
   ![lighthouse-menu-mobile](assets/README-images/menu-page-lh-mobile.jpg)
 
-  - Book online lighthouse Desktop
+  </details>
+  <details><summary>Book online lighthouse Desktop</summary>
 
   ![lighthouse-book-online](assets/README-images/book-online-lighthouse-desk.jpg)
 
-  - Book online lighthouse Mobile
+  </details>
+  <details><summary>Book online lighthouse Mobile</summary>
 
   ![Lighthouse-book-online-mobile](assets/README-images/book-online-lh-mobile.jpg)
 
-  - Thank you Desktop
+  </details>
+  <details><summary>Thank you lighthouse Desktop</summary>
 
   ![Lighthouse-thank-you-desktop](assets/README-images/thank-you-lh-desktop.jpg)
 
-  - Thank you Mobile
+  </details>
+  <details><summary>Thank you lighthouse Mobile</summary>
 
   ![Lighthouse-thank-you-mobile](assets/README-images/thank-you-lh-mobile.jpg)
 
@@ -184,7 +190,7 @@ Vincenzo's fine dining is a static 3 page website for a fictional Italian Restau
 
 * When adding my hamburger menu i noticed that when expanded the menu was wider than the page width which caused there to be a horizontal scroll bar. To fix this i removed any default margin and padding from the menu.
 
-* When testing the menu page on smaller screen devices I noticed that the menu section containers were overflowing to the side of the screen. To fix this i added a media query to re size the containers appropriately.
+* When testing the menu page on smaller screen devices I noticed that the menu section containers were overflowing to the side of the screen. To fix this I added a media query to re size the containers appropriately.
 
 #### Unsolved bugs
 
