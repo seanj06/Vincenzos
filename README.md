@@ -27,7 +27,7 @@ Vincenzo's fine dining is a static 3 page website for a fictional Italian Restau
 
 ## Project Goals
 
-This project was created for Code Institute Project Portfolio 1 using both HTML and CSS.
+This project was created for Code Institute Project Portfolio 1 using both HTML and CSS. The aim was to create a site that was both easy to navigate and used consistent styling throughout.
 
 ## User Experience
 
@@ -150,7 +150,7 @@ This project was created for Code Institute Project Portfolio 1 using both HTML 
 ![thank-you-page](assets/README-images/thank.you.jpg)
 
 ## Testing
----
+
 * I have tested this website works on all browser types.
 
 * I have tested the site on various screen sizes and devices using devtools and confirmed it is responsive to all sizes.
@@ -236,20 +236,24 @@ This project was created for Code Institute Project Portfolio 1 using both HTML 
 
 
 ## Credits
----
-### Content
 
-* Template for readme taken from Code Institute sample readme.
+- ### Content
 
-* Hamburger menu taken from https://alvarotrigo.com/blog/hamburger-menu-css/ 
+  - Template for readme taken from Code Institute sample readme.
 
-* The 2 fonts used on this site "Dancing script" and "Cinzel" taken from https://fonts.google.com
+  - Hamburger menu taken from https://alvarotrigo.com/blog/hamburger-menu-css/ 
 
-### Media 
+  - The 2 fonts used on this site "Dancing script" and "Cinzel" taken from https://fonts.google.com
 
-* All site images were taken from https://www.pexels.com/
+- ### Media 
 
-* Social media logos on footer taken from https://fontawesome.com/
+  - All site images were taken from https://www.pexels.com/
+
+  - Social media logos on footer taken from https://fontawesome.com/
+
+- ### Research
+
+  - https://stackoverflow.com/ was used for any bugs which I could not solve. 
 
 
 
