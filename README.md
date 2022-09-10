@@ -30,12 +30,19 @@ Vincenzo's fine dining is a static 3 page website for a fictional Italian Restau
     - The 2 main text colors are #222020(Eerie black) and #FFFFFF(White)
     - The hero text of the page is #F8F8FF(Ghost White)
     - I chose these colors because i felt they go well together in contrast and are easy to read.
+
+ - #### Fonts
+
+   - The 2 main fonts used in the site are 'Dancing script' and 'Cinzel' both taken from google fonts, with a fallback font of sans-serif.
+   - The font used for headings is Dancing script.
+   - The font used for all other text is Cinzel.   
  
 
 ## Features
 ---
 ### 1. Header
 * The Header contains both the Vincenzos fine dining logo to the left of the page and the navigation bar to the right of the page.
+* The logo can be clicked to bring the user back to the home page.
 * The colors were chosen in contrast with each other for easy readability
 * The navigation bar links to the 3 pages Home, Menu and Book Online.There is a hover feature implemented which changes the color of the hovered over menu to Gray.There is also a current page feature which shows the user what page they are currently on with white lines around the link heading.
 
@@ -103,6 +110,10 @@ Vincenzo's fine dining is a static 3 page website for a fictional Italian Restau
 
 ![book-online1](assets/README-images/book-online1.jpg)
 ![book-online2](assets/README-images/book-online2.jpg)
+
+* When the user submits their details into the form they are taken to a thank you page which confirms their booking and contains a link back to the home page.
+
+![thank-you-page](assets/README-images/thank.you.jpg)
 
 ## Testing
 ---
