@@ -3,7 +3,33 @@ Vincenzo's fine dining is a static 3 page website for a fictional Italian Restau
 
 ![AmiResponsive](assets/README-images/amiresponsive.jpg)
 
-## User experience
+## Table Of Contents
+
+1. [Project Goals](#project-goals)
+
+2. [User Experience](#user-experience)
+   - [User Stories](#1-user-stories)
+   - [Design Choices](#2design-choices)
+
+3. [Features](#features) 
+   - [Home Page](#home-page)
+   - [Menu Page](#menu-page)
+   - [Book Online Page](#9-book-online-page)
+
+4. [Testing](#testing) 
+   - [Validator Testing](#validator-testing)
+   - [Accessibility](#accessibility) 
+   - [Bugs](#bugs)
+
+5. [Deployment](#deployment) 
+
+6. [Credits](#credits)  
+
+## Project Goals
+
+This project was created for Code Institute Project Portfolio 1 using both HTML and CSS.
+
+## User Experience
 
  ### 1. User stories
 
@@ -111,7 +137,7 @@ Vincenzo's fine dining is a static 3 page website for a fictional Italian Restau
 
 ![menu2](assets/README-images/menu2.jpg)
 
-### 9. Book online page
+###  Book online page
 * This page has a form for users to enter their details to reserve a table online.
 
 * The form collects the users First name, Last name, Number of people, preferred time slot and any additional requests.
