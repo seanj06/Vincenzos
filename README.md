@@ -196,9 +196,18 @@ Vincenzo's fine dining is a static 3 page website for a fictional Italian Restau
 
 * There are no unsolved bugs.
 
-## Deployment
----
-* This website was deployed on github pages.
+ ## Deployment
+
+- This website was deployed on github pages using the following steps.
+ 
+  - In the Github repository navigate to the settings tab.
+  -  From the settings menu scroll down to pages and click it.
+  - In the source section of the pages menu navigate to the branch section and select main.
+  - Click save and the page will automatically refresh.
+
+  - Navigate back to the pages section and the live link of the published will now be there.
+  - [Link_to_site](https://seanj06.github.io/Vincenzos/)
+
 
 ## Credits
 ---
