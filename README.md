@@ -39,7 +39,7 @@ Vincenzo's fine dining is a static 3 page website for a fictional Italian Restau
  
 
 ## Features
----
+
 ### Home Page
 
 ####  Header
@@ -148,15 +148,33 @@ Vincenzo's fine dining is a static 3 page website for a fictional Italian Restau
 
   - Home Page Lighthouse mobile
 
+  ![lighthouse-mobile-home](assets/README-images/home-page-lh-mobile.jpg)
+
 
 
   - Menu page lighthouse Desktop
 
-![lighthouse-menu](assets/README-images/menu-page-lighthouse.jpg)
+  ![lighthouse-menu](assets/README-images/menu-page-lh-desk.jpg)
 
-* Book online lighthouse
+  - Menu page lighthouse Mobile
 
-![lighthouse-book-online](assets/README-images/book-online-lighthouse.jpg)
+  ![lighthouse-menu-mobile](assets/README-images/menu-page-lh-mobile.jpg)
+
+  - Book online lighthouse Desktop
+
+  ![lighthouse-book-online](assets/README-images/book-online-lighthouse-desk.jpg)
+
+  - Book online lighthouse Mobile
+
+  ![Lighthouse-book-online-mobile](assets/README-images/book-online-lh-mobile.jpg)
+
+  - Thank you Desktop
+
+  ![Lighthouse-thank-you-desktop](assets/README-images/thank-you-lh-desktop.jpg)
+
+  - Thank you Mobile
+
+  ![Lighthouse-thank-you-mobile](assets/README-images/thank-you-lh-mobile.jpg)
 
 ### Bugs
 
