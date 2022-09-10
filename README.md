@@ -3,6 +3,35 @@ Vincenzo's fine dining is a static 3 page website for a fictional Italian Restau
 
 ![AmiResponsive](assets/README-images/amiresponsive.jpg)
 
+## User experience
+
+ ### 1. User stories
+
+   - #### First time users
+     - As a first time user i want to be able to easily navigate the site.
+     - I want to be able to view the site on mobile and tablet devices as well as desktop.
+     - As a first time user i want the site to be simple and easy to read.
+     - As a first time user i want to be quickly able to understand the purpose of the site.
+     - As a first time user i want to be able to look at the menu online.
+     - As a first time user i want to be able to reserve a table online.
+     - As a first time user i want to see if there is information on the restaurant location.
+
+  - #### Returning users
+    - As a returning user i want to see if the Menu is updated regularly.
+    - As a returning user i want to see if there is any update to the opening and closing times of the restaurant.
+    - As a returning user i want to see if there is any updates to the book onine page.
+
+  ### 2.Design choices
+
+  - #### Colors
+    
+    ![color-scheme](assets/README-images/color-scheme.jpg)
+    - The 2 main background colors of the site are #B0A8B9(Heliotrope gray) and #222020(Eerie black).
+    - The 2 main text colors are #222020(Eerie black) and #FFFFFF(White)
+    - The hero text of the page is #F8F8FF(Ghost White)
+    - I chose these colors because i felt they go well together in contrast and are easy to read.
+ 
+
 ## Features
 ---
 ### 1. Header

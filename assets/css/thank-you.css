@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Dancing+Script:wght@700&display=swap');
+
+body {
+    background-color: #B0A8B9;
+  margin: 0;
+  height: auto;
+}
+
+.thank-you-hero {
+  font-family: 'Dancing Script', sans-serif;
+  font-size: 1.7em;
+  color: #222020;
+  text-align: center;
+}
+
+.confirmation-text {
+    font-family: 'Cinzel', sans-serif;
+    font-size: 1.2em;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.click-here {
+    text-decoration: none;
+    margin-top: 100px;
+}
