@@ -31,7 +31,7 @@ This project was created for Code Institute Project Portfolio 1 using both HTML 
 
 ## User Experience
 
- ### 1. User stories
+ ### 1. User Stories
 
    - #### First time users
      - As a first time user i want to be able to easily navigate the site.
@@ -47,7 +47,7 @@ This project was created for Code Institute Project Portfolio 1 using both HTML 
     - As a returning user i want to see if there is any update to the opening and closing times of the restaurant.
     - As a returning user i want to see if there is any updates to the book onine page.
 
-  ### 2.Design choices
+  ### 2.Design Choices
 
   - #### Colors
     
@@ -68,15 +68,16 @@ This project was created for Code Institute Project Portfolio 1 using both HTML 
 
 ### Home Page
 
-####  Header
-* The Header contains both the Vincenzos fine dining logo to the left of the page and the navigation bar to the right of the page.
-* The logo can be clicked to bring the user back to the home page.
-* The colors were chosen in contrast with each other for easy readability for users
-* The navigation bar links to the 3 pages Home, Menu and Book Online.There is a hover feature implemented which changes the color of the hovered over menu to Gray.There is also a current page feature which shows the user what page they are currently on with white lines around the link heading.
+- ####  Header
+
+  - The Header contains both the Vincenzos fine dining logo to the left of the page and the navigation bar to the right of the page.
+  - The logo can be clicked to bring the user back to the home page.
+  - The colors were chosen in contrast with each other for easy readability for users
+  - The navigation bar links to the 3 pages Home, Menu and Book Online.There is a hover feature implemented which changes the color of the hovered over menu to Gray.There is also a current page feature which shows the user what page they are currently on with white lines around the link heading.
 
 ![Headerimage](assets/README-images/header.jpg)
 
-* The navigation bar transforms into a hamburger menu for tablet and mobile devices under 768 pixels wide.
+- The navigation bar transforms into a hamburger menu for tablet and mobile devices under 768 pixels wide.
 
 ![ClosedHamburgerMenu](assets/README-images/hamburger-menu-closed.jpg)
 
@@ -84,52 +85,56 @@ This project was created for Code Institute Project Portfolio 1 using both HTML 
 
 ![OpenHamburgerMenu](assets/README-images/hamburger-menu-open.jpg)
 
-####  Hero Photo section
-* This section has a background image of a nice restaurant which gives the users an idea of what to expect when coming to the retaurant.
+- ####  Hero Photo Section
+  - This section has a background image of a nice restaurant which gives the users an idea of what to expect when coming to the retaurant.
 
-* The section has a heading with the slogan "The Authentic Dining Experience".
+  - The section has a heading with the slogan "The Authentic Dining Experience".
 
-* This section includes 2 award transparent boxes which slide down from the top of the page when the page is loaded or refreshed.
+  - This section includes 2 award transparent boxes which slide down from the top of the page when the page is loaded or refreshed.
 
 ![photosection](assets/README-images/photo-section.jpg)
 
-####  About us section
-* This section gives an overview of where the restaurant is located. It also gives a brief history of when the website opened its doors and tells the user that all ingredients are locally sourced and all meals are made fresh.
+- ####  About Us Section
+
+  - This section gives an overview of where the restaurant is located. It also gives a brief history of when the website opened its doors and tells the user that all ingredients are locally sourced and all meals are made fresh.
 
 ![about-us-section](assets/README-images/aboutus.jpg)
 
-####  Opening hours section
-* This section gives the opening hours of the restaurant.
+- ####  Opening Hours Section
 
-* It is located on the home page so it is one of the first things the user sees when navigating the site.
+  - This section gives the opening hours of the restaurant.
+
+  - It is located on the home page so it is one of the first things the user sees when navigating the site.
 
 ![opening-hours](assets/README-images/opening-hours.jpg)
 
-####  Where to find us section
-* This section gives an overview of exactly where the restaurant is loacated and gives information on nearby parking.
+- ####  Where To Find Us Section
 
-* The section also has an interactive map with a pin location for the restaurant.
+  - This section gives an overview of exactly where the restaurant is loacated and gives information on nearby parking.
 
-* This section is located just under the opening hours section for easy user accessibility.
+  - The section also has an interactive map with a pin location for the restaurant.
+
+  - This section is located just under the opening hours section for easy user accessibility.
 
 ![where-to-find-us](assets/README-images/where-to-find-us.jpg)
 
-####  Footer
-* The footer contains 3 clickable links to Facebook, Twitter and Instagram, which all open in a new tab.
+- ####  Footer
 
-* The section also contains the restaurant contact phone number and contact email address.
+  - The footer contains 3 clickable links to Facebook, Twitter and Instagram, which all open in a new tab.
 
-* The bottom of the footer contains a disclaimer explaining that this website is fictional and made for project purposes only.
+  - The section also contains the restaurant contact phone number and contact email address.
 
-* The footer contains all relevant information for the user to contact the restaurant and keep up to date with updates by following social media accounts.
+  - The bottom of the footer contains a disclaimer explaining that this website is fictional and made for project purposes only.
+
+  - The footer contains all relevant information for the user to contact the restaurant and keep up to date with updates by following social media accounts.
 
 ![footer](assets/README-images/footer.jpg)
 
-### Menu Page
+- ### Menu Page
 
-* This page contains an online menu for users to look at the meals available to order at the restaurant.
+  - This page contains an online menu for users to look at the meals available to order at the restaurant.
 
-* The page contains 4 food sections. Starters, Mains, Pizza and Desserts with prices shown for each item and a small image at the head of each section.
+  - The page contains 4 food sections. Starters, Mains, Pizza and Desserts with prices shown for each item and a small image at the head of each section.
 
 ![menu1](assets/README-images/menu1.jpg)
 
@@ -137,10 +142,11 @@ This project was created for Code Institute Project Portfolio 1 using both HTML 
 
 ![menu2](assets/README-images/menu2.jpg)
 
-###  Book online page
-* This page has a form for users to enter their details to reserve a table online.
+- ###  Book Online Page
 
-* The form collects the users First name, Last name, Number of people, preferred time slot and any additional requests.
+  - This page has a form for users to enter their details to reserve a table online.
+
+  - The form collects the users First name, Last name, Number of people, preferred time slot and any additional requests.
 
 ![book-online1](assets/README-images/book-online1.jpg)
 ![book-online2](assets/README-images/book-online2.jpg)
@@ -164,7 +170,7 @@ This project was created for Code Institute Project Portfolio 1 using both HTML 
 ![w3c](assets/README-images/w3c.jpg)
 ![jigsaw](assets/README-images/jigsaw.jpg)
 
-* ### Accessibility
+- ### Accessibility
 
   - I confirm that all 3 pages return a high accessibility rating when running them through the lighthouse tool on devtools.
 
@@ -210,17 +216,17 @@ This project was created for Code Institute Project Portfolio 1 using both HTML 
 
 ### Bugs
 
-#### Solved bugs
+- #### Solved Bugs
 
-* When testing my site for responsiveness i realised that the text in all paragraph areas of the site was overflowing out of the page on smaller screen sizes. To fix this i changed font-size propertys from px to em.
+  - When testing my site for responsiveness i realised that the text in all paragraph areas of the site was overflowing out of the page on smaller screen sizes. To fix this i changed font-size propertys from px to em.
 
-* When adding my hamburger menu i noticed that when expanded the menu was wider than the page width which caused there to be a horizontal scroll bar. To fix this i removed any default margin and padding from the menu.
+  - When adding my hamburger menu i noticed that when expanded the menu was wider than the page width which caused there to be a horizontal scroll bar. To fix this i removed any default margin and padding from the menu.
 
-* When testing the menu page on smaller screen devices I noticed that the menu section containers were overflowing to the side of the screen. To fix this I added a media query to re size the containers appropriately.
+  - When testing the menu page on smaller screen devices I noticed that the menu section containers were overflowing to the side of the screen. To fix this I added a media query to re size the containers appropriately.
 
-#### Unsolved bugs
+- #### Unsolved Bugs
 
-* There are no unsolved bugs.
+  - There are no unsolved bugs.
 
  ## Deployment
 
@@ -254,6 +260,8 @@ This project was created for Code Institute Project Portfolio 1 using both HTML 
 - ### Research
 
   - https://stackoverflow.com/ was used for any bugs which I could not solve. 
+
+  - https://www.w3schools.com/ was used for research on various code syntax.
 
 
 
