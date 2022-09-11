@@ -224,6 +224,27 @@ This project was created for Code Institute Project Portfolio 1 using both HTML 
 
   - When testing the menu page on smaller screen devices I noticed that the menu section containers were overflowing to the side of the screen. To fix this I added a media query to re size the containers appropriately.
 
+  - When testing the responsiveness of my site on different devices I realised that the footer on the Book Online page was not sticking to the bottom of the page on devices with heights of 1250 px or more. I concluded this was because the content on this page was not enough to fill the height of that size. I was unable to fix this bug by resizing the content as this made it look stretched.
+
+  <details><summary>Footer not sticking to bottom</summary>
+
+  ![footer-not-at-bottom](assets/README-images/footer-bug.jpg)
+  </details>
+
+  - I fixed the bug by adding a media query for devices with a min height of 1250 pixels to footer position: fixed and bottom: 0.
+
+   
+  <details><summary>Media query code</summary>
+
+  ![code](assets/README-images/media-query.jpg)
+  </details>
+
+  <details><summary>Fixed footer</summary>
+
+  ![fixed-footer](assets/README-images/fixed-footer.jpg)
+  </details>
+  
+
 - #### Unsolved Bugs
 
   - There are no known unsolved bugs.
