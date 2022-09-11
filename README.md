@@ -220,13 +220,13 @@ This project was created for Code Institute Project Portfolio 1 using both HTML 
 
   - When testing my site for responsiveness i realised that the text in all paragraph areas of the site was overflowing out of the page on smaller screen sizes. To fix this i changed font-size propertys from px to em.
 
-  - When adding my hamburger menu i noticed that when expanded the menu was wider than the page width which caused there to be a horizontal scroll bar. To fix this i removed any default margin and padding from the menu.
+  - When adding my hamburger menu I noticed that when expanded the menu was wider than the page width which caused there to be a horizontal scroll bar. To fix this i removed any default margin and padding from the menu.
 
   - When testing the menu page on smaller screen devices I noticed that the menu section containers were overflowing to the side of the screen. To fix this I added a media query to re size the containers appropriately.
 
 - #### Unsolved Bugs
 
-  - There are no unsolved bugs.
+  - There are no known unsolved bugs.
 
  ## Deployment
 
@@ -246,6 +246,8 @@ This project was created for Code Institute Project Portfolio 1 using both HTML 
 - ### Content
 
   - Template for readme taken from Code Institute sample readme.
+
+  - Code institute gitpod template was used and taken from https://github.com/Code-Institute-Org/gitpod-database-config
 
   - Hamburger menu taken from https://alvarotrigo.com/blog/hamburger-menu-css/ 
 

@@ -361,3 +361,12 @@ footer h2 {
     margin-top: 60px;
   }
 }
+
+ /* For fixed footer */
+
+@media screen and (min-height: 1250px) {
+     footer {
+      position: fixed;
+      bottom: 0;
+     }
+}

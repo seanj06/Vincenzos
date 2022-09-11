@@ -506,6 +506,7 @@ footer h2 {
 
   .heading-container {
     margin-bottom: 0;
+    font-size: 1.1em;
   }
 
   .star {
@@ -530,4 +531,5 @@ footer h2 {
   .menu {
     margin-top: 60px;
   }
+
 }
