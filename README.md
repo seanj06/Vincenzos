@@ -155,6 +155,8 @@ This project was created for Code Institute Project Portfolio 1 using both HTML 
 
 ![thank-you-page](assets/README-images/thank.you.jpg)
 
+[Top of page](#vincenzos-fine-dining)
+
 ## Testing
 
 * I have tested this website works on all browser types.
@@ -220,12 +222,14 @@ This project was created for Code Institute Project Portfolio 1 using both HTML 
 
   - When testing my site for responsiveness i realised that the text in all paragraph areas of the site was overflowing out of the page on smaller screen sizes. To fix this i changed font-size propertys from px to em.
 
-  - When adding my hamburger menu I noticed that when expanded the menu was wider than the page width which caused there to be a horizontal scroll bar. To fix this i removed any default margin and padding from the menu.
+  - When adding my hamburger menu I noticed that when expanded the menu was wider than the page width which caused there to be a horizontal scroll bar. 
 
   <details><summary>Hamburger menu overflowing</summary>
 
   ![hamburger-bug](assets/README-images/hamburger-bug.jpg)
   </details>
+
+  - To fix this i removed any default margin and padding from the menu.
 
   <details><summary>Hamburger menu after removing padding and margin</summary>
 
@@ -264,6 +268,8 @@ This project was created for Code Institute Project Portfolio 1 using both HTML 
 
   - There are no known unsolved bugs.
 
+  [Top of page](#vincenzos-fine-dining)
+
  ## Deployment
 
 - This website was deployed on github pages using the following steps.
@@ -274,7 +280,9 @@ This project was created for Code Institute Project Portfolio 1 using both HTML 
   - Click save and the page will automatically refresh.
 
   - Navigate back to the pages section and the live link of the published will now be there.
-  - [Link to site](https://seanj06.github.io/Vincenzos/)
+  - [Link to site](https://seanj06.github.io/Vincenzos-P1/)
+
+  [Top of page](#vincenzos-fine-dining)
 
 
 ## Credits
@@ -300,6 +308,8 @@ This project was created for Code Institute Project Portfolio 1 using both HTML 
   - https://stackoverflow.com/ was used for any bugs which I could not solve. 
 
   - https://www.w3schools.com/ was used for research on various code syntax.
+
+  [Top of page](#vincenzos-fine-dining)
 
 
 
