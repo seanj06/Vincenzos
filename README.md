@@ -27,7 +27,9 @@ Website developed by Sean Johnston for Code Institute Project Portfolio 1.
 
 5. [Deployment](#deployment) 
 
-6. [Credits](#credits)  
+6. [Credits](#credits)
+
+7. [Acknowledgements](#acknowledgements)
 
 ## Project Goals
 
@@ -312,6 +314,12 @@ This project was created for Code Institute Project Portfolio 1 using both HTML 
   - https://stackoverflow.com/ was used for any bugs which I could not solve. 
 
   - https://www.w3schools.com/ was used for research on various code syntax.
+
+  ## Acknowledgements
+
+ - Thank you to my mentor Jubril who helped me along the way by guiding me in the right direction to complete the website.
+
+ - Thank you to the Code Institute slack community and my classmates who helped with any issues i was having while making the website. 
 
   [Top of page](#vincenzos-fine-dining)
 
