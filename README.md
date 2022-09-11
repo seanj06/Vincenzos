@@ -81,7 +81,7 @@ This project was created for Code Institute Project Portfolio 1 using both HTML 
 
 ![ClosedHamburgerMenu](assets/README-images/hamburger-menu-closed.jpg)
 
-* When clicked the menu opens into 3 columns with the page links.
+* When clicked the menu opens into 3 rows with the page links.
 
 ![OpenHamburgerMenu](assets/README-images/hamburger-menu-open.jpg)
 
@@ -221,6 +221,21 @@ This project was created for Code Institute Project Portfolio 1 using both HTML 
   - When testing my site for responsiveness i realised that the text in all paragraph areas of the site was overflowing out of the page on smaller screen sizes. To fix this i changed font-size propertys from px to em.
 
   - When adding my hamburger menu I noticed that when expanded the menu was wider than the page width which caused there to be a horizontal scroll bar. To fix this i removed any default margin and padding from the menu.
+
+  <details><summary>Hamburger menu overflowing</summary>
+
+  ![hamburger-bug](assets/README-images/hamburger-bug.jpg)
+  </details>
+
+  <details><summary>Hamburger menu after removing padding and margin</summary>
+
+  ![hamburger-fixed](assets/README-images/hamburger-fixed.jpg)
+  </details>
+
+  <details><summary>Hamburger menu css code</summary>
+
+  ![hamburger-code](assets/README-images/hamburger-code.jpg)
+  </details>
 
   - When testing the menu page on smaller screen devices I noticed that the menu section containers were overflowing to the side of the screen. To fix this I added a media query to re size the containers appropriately.
 
