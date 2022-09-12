@@ -33,7 +33,15 @@ Website developed by Sean Johnston for Code Institute Project Portfolio 1.
 
 ## Project Goals
 
-This project was created for Code Institute Project Portfolio 1 using both HTML and CSS. The aim was to create a site that was both easy to navigate and used consistent styling throughout.
+ - This project was created for Code Institute Project Portfolio 1 using both HTML and CSS.
+
+ * Main goals of the site include:
+
+   - Creating a site with consistent styling and easy accessibility for users throughout
+
+   - Creating a site with all relevant and easy to find information for new and returning users.
+
+   - Creating a site with full responsiveness for all screen and device sizes. 
 
 ## User Experience
 
