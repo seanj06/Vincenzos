@@ -44,6 +44,10 @@ Website developed by Sean Johnston for Code Institute Project Portfolio 1.
 
    - Creating a site with full responsiveness for all screen and device sizes. 
 
+  * Target audience of the site include:
+
+    - Users that are interested in the restaurant and want to find out more information on: The restaurant opening times, The type of food the restaurant offers, Where the restaurant is located and users that want to reserve a table for the restaurant online. 
+
    [Top of page](#vincenzos-fine-dining)
 
 ## User Experience (UX)
