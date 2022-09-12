@@ -11,7 +11,7 @@ Website developed by Sean Johnston for Code Institute Project Portfolio 1.
 
 1. [Project Goals](#project-goals)
 
-2. [User Experience](#user-experience)
+2. [User Experience (UX)](#user-experience)
    - [User Stories](#1-user-stories)
    - [Design Choices](#2design-choices)
 
@@ -46,7 +46,7 @@ Website developed by Sean Johnston for Code Institute Project Portfolio 1.
 
    [Top of page](#vincenzos-fine-dining)
 
-## User Experience
+## User Experience (UX)
 
  ### 1. User Stories
 
@@ -238,11 +238,16 @@ Website developed by Sean Johnston for Code Institute Project Portfolio 1.
 
 - #### Solved Bugs
 
-  - When testing my site for responsiveness i realised that the text in all paragraph areas of the site was overflowing out of the page on smaller screen sizes. To fix this i changed font-size propertys from px to em.
+  - When testing my site for responsiveness I realised that the text in all paragraph areas of the site was overflowing out of the page on smaller screen sizes. To fix this I changed font-size propertys from px to em for responsiveness. I also added 10 pixels of padding to each side of paragraph text.
+
+  <details><summary>Paragraph text css</summary>
+
+  ![p-text-code](assets/README-images/paragraph-text-code.jpg)
+  </details>
 
   - When adding my hamburger menu I noticed that when expanded the menu was wider than the page width which caused there to be a horizontal scroll bar. 
 
-  <details><summary>Hamburger menu overflowing</summary>
+   <details><summary>Hamburger menu overflowing</summary>
 
   ![hamburger-bug](assets/README-images/hamburger-bug.jpg)
   </details>
@@ -280,6 +285,20 @@ Website developed by Sean Johnston for Code Institute Project Portfolio 1.
 
   ![fixed-footer](assets/README-images/fixed-footer.jpg)
   </details>
+
+  - When testing my site for responsiveness I noticed that in landscape mode on smaller screens the award boxes were overflowing onto the top of the section below.
+
+  <details><summary>Award boxes overflowing</summary>
+
+  ![award-oveflow](assets/README-images/award-section-overflow.jpg)
+  </details> 
+
+  - To fix this i added an orientation:landscape media query and set the margin bottom to zero instead of the deafult keyframes -50 pixels.
+
+  <details><summary>Landscape media query code</summary>
+
+  ![landscape-code](assets/README-images/keyframe-code.jpg) 
+  </details> 
   
 
 - #### Unsolved Bugs
