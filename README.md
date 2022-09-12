@@ -48,13 +48,13 @@ Website developed by Sean Johnston for Code Institute Project Portfolio 1.
  ### 1. User Stories
 
    - #### First time users
-     - As a first time user i want to be able to easily navigate the site.
-     - I want to be able to view the site on mobile and tablet devices as well as desktop.
-     - As a first time user i want the site to be simple and easy to read.
-     - As a first time user i want to be quickly able to understand the purpose of the site.
-     - As a first time user i want to be able to look at the menu online.
-     - As a first time user i want to be able to reserve a table online.
-     - As a first time user i want to see if there is information on the restaurant location.
+     - As a first time user I want to be able to easily navigate the site.
+     - As a first time user I want to be able to view the site on mobile and tablet devices as well as desktop.
+     - As a first time user I want the site to be simple and easy to read.
+     - As a first time user I want to be quickly able to understand the purpose of the site.
+     - As a first time user I want to be able to look at the menu online.
+     - As a first time user I want to be able to reserve a table online.
+     - As a first time user I want to see if there is information on the restaurant location.
 
   - #### Returning users
     - As a returning user i want to see if the Menu is updated regularly.
@@ -283,6 +283,69 @@ Website developed by Sean Johnston for Code Institute Project Portfolio 1.
   - There are no known unsolved bugs.
 
   [Top of page](#vincenzos-fine-dining)
+
+ ### Testing user stories
+
+ - As a first time user i want to be able to easly navigate the site.
+
+   - The navbar at the top of the site makes the site easily navigatable for all users, including the clickable logo which takes users back to the home page from any page on the site.
+
+   <details><summary>Top of page navbar</summary>
+   
+   ![navbar2](assets/README-images/navbar2.jpg)
+   </details>
+
+ - I want to be able to view the site on mobile and tablet devices as well as desktop.
+
+   - The site is fully responsive to all screen sizes and devices. The navbar transforms into a hamburger menu for users on small screens. The menu page also transforms into 1 column of menu containers on smaller screens for easy user readability.
+
+   <details><summary>Hamburger menu</summary>
+
+   ![hamburger-menu](assets/README-images/hamburger-menu-open.jpg)
+   </details>
+
+   <details><summary>Menu page on mobile</summary>
+
+   ![mobile-menu-page](assets/README-images/menu2.jpg)
+   </details>
+
+- As a first time user I want the site to be simple and easy to read. 
+
+  - The design of the site is split into 3 compact pages for easy user accessibility. 
+
+  - The home page includes all relevant information for users including, The navbar with links to the 3 pages, The opening times of the restaurant, The location of the restaurant with an interactive map and the footer with the restaurant phone number, email address and link to social media sites.
+
+  <details><summary>Home Page Information</summary>
+
+  ![home-page-info](assets/README-images/home-page.jpg)
+  </details>
+
+  - The menu page has a simple layout for users that inludes information on all of the menu items with prices broken into 4 sections, Starters, Mains, Pizza and Desserts.
+
+  <details><summary>Menu Page</summary>
+
+  ![menu-layout](assets/README-images/menu1.jpg)
+  </details>
+
+  - The Book Online page has a simple layout which fits all of the forms on the users screen without need for scrolling.
+
+  <details><summary>Book Online Page</summary>
+
+  ![book-online-layout](assets/README-images/book-online-layout.jpg)
+  </details>
+
+- As a first time user i want to be quickly able to understand the purpose of the site.
+
+  - The Award section shows that the purpose of the website is to draw first time and returning users in to the restaurant  by showing them the awards received.
+
+  <details><summary>Award section</summary>
+
+  ![award-section](assets/README-images/photo-section.jpg)
+  </details>
+
+ 
+
+
 
  ## Deployment
 
