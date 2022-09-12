@@ -24,6 +24,7 @@ Website developed by Sean Johnston for Code Institute Project Portfolio 1.
    - [Validator Testing](#validator-testing)
    - [Accessibility](#accessibility) 
    - [Bugs](#bugs)
+   - [Testing user stories](#testing-user-stories)
 
 5. [Deployment](#deployment) 
 
@@ -42,6 +43,8 @@ Website developed by Sean Johnston for Code Institute Project Portfolio 1.
    - Creating a site with all relevant and easy to find information for new and returning users.
 
    - Creating a site with full responsiveness for all screen and device sizes. 
+
+   [Top of page](#vincenzos-fine-dining)
 
 ## User Experience
 
@@ -77,6 +80,7 @@ Website developed by Sean Johnston for Code Institute Project Portfolio 1.
    - The font used for headings is Dancing script.
    - The font used for all other text is Cinzel.   
  
+[Top of page](#vincenzos-fine-dining)
 
 ## Features
 
@@ -344,7 +348,7 @@ Website developed by Sean Johnston for Code Institute Project Portfolio 1.
   </details>
 
  
-
+[Top of page](#vincenzos-fine-dining)
 
 
  ## Deployment
@@ -356,7 +360,7 @@ Website developed by Sean Johnston for Code Institute Project Portfolio 1.
   - In the source section of the pages menu navigate to the branch section and select main.
   - Click save and the page will automatically refresh.
 
-  - Navigate back to the pages section and the live link of the published will now be there.
+  - Navigate back to the pages section and the live link of the published  site will now be there.
   - [Link to site](https://seanj06.github.io/Vincenzos-P1/)
 
   [Top of page](#vincenzos-fine-dining)
@@ -370,7 +374,7 @@ Website developed by Sean Johnston for Code Institute Project Portfolio 1.
 
   - Code institute gitpod template was used and taken from https://github.com/Code-Institute-Org/gitpod-database-config
 
-  - Hamburger menu taken from https://alvarotrigo.com/blog/hamburger-menu-css/ 
+  - Hamburger menu design taken from https://alvarotrigo.com/blog/hamburger-menu-css/ 
 
   - The 2 fonts used on this site "Dancing script" and "Cinzel" taken from https://fonts.google.com
 
@@ -385,6 +389,8 @@ Website developed by Sean Johnston for Code Institute Project Portfolio 1.
   - https://stackoverflow.com/ was used for any bugs which I could not solve. 
 
   - https://www.w3schools.com/ was used for research on various code syntax.
+
+  [Top of page](#vincenzos-fine-dining)
 
   ## Acknowledgements
 
