@@ -128,7 +128,7 @@ Website developed by Sean Johnston for Code Institute Project Portfolio 1.
 
 - ####  Where To Find Us Section
 
-  - This section gives an overview of exactly where the restaurant is loacated and gives information on nearby parking.
+  - This section gives an overview of exactly where the restaurant is located and gives users information on nearby parking.
 
   - The section also has an interactive map with a pin location for the restaurant.
 
@@ -236,16 +236,16 @@ Website developed by Sean Johnston for Code Institute Project Portfolio 1.
 
 ### Bugs
 
-- #### Solved Bugs
+ #### Solved Bugs
 
-  - When testing my site for responsiveness I realised that the text in all paragraph areas of the site was overflowing out of the page on smaller screen sizes. To fix this I changed font-size propertys from px to em for responsiveness. I also added 10 pixels of padding to each side of paragraph text.
+- When testing my site for responsiveness I realised that the text in all paragraph areas of the site was overflowing out of the page on smaller screen sizes. To fix this I changed font-size propertys from px to em for responsiveness. I also added 10 pixels of padding to each side of paragraph text.
 
-  <details><summary>Paragraph text css</summary>
+   <details><summary>Paragraph text css</summary>
 
   ![p-text-code](assets/README-images/paragraph-text-code.jpg)
   </details>
 
-  - When adding my hamburger menu I noticed that when expanded the menu was wider than the page width which caused there to be a horizontal scroll bar. 
+- When adding my hamburger menu I noticed that when expanded the menu was wider than the page width which caused there to be a horizontal scroll bar. 
 
    <details><summary>Hamburger menu overflowing</summary>
 
@@ -264,9 +264,9 @@ Website developed by Sean Johnston for Code Institute Project Portfolio 1.
   ![hamburger-code](assets/README-images/hamburger-code.jpg)
   </details>
 
-  - When testing the menu page on smaller screen devices I noticed that the menu section containers were overflowing to the side of the screen. To fix this I added a media query to re size the containers appropriately.
+- When testing the menu page on smaller screen devices I noticed that the menu section containers were overflowing to the side of the screen. To fix this I added a media query to re size the containers appropriately.
 
-  - When testing the responsiveness of my site on different devices I realised that the footer on the Book Online page was not sticking to the bottom of the page on devices with heights of 1250 px or more. I concluded this was because the content on this page was not enough to fill the height of that size. I was unable to fix this bug by resizing the content as this made it look stretched.
+- When testing the responsiveness of my site on different devices I realised that the footer on the Book Online page was not sticking to the bottom of the page on devices with heights of 1250 px or more. I concluded this was because the content on this page was not enough to fill the height of that size. I was unable to fix this bug by resizing the content as this made it look stretched.
 
   <details><summary>Footer not sticking to bottom</summary>
 
@@ -286,7 +286,7 @@ Website developed by Sean Johnston for Code Institute Project Portfolio 1.
   ![fixed-footer](assets/README-images/fixed-footer.jpg)
   </details>
 
-  - When testing my site for responsiveness I noticed that in landscape mode on smaller screens the award boxes were overflowing onto the top of the section below.
+- When testing my site for responsiveness I noticed that in landscape mode on smaller screens the award boxes were overflowing onto the top of the section below.
 
   <details><summary>Award boxes overflowing</summary>
 
@@ -318,7 +318,7 @@ Website developed by Sean Johnston for Code Institute Project Portfolio 1.
    ![navbar2](assets/README-images/navbar2.jpg)
    </details>
 
- - I want to be able to view the site on mobile and tablet devices as well as desktop.
+ -  As a first time user I want to be able to view the site on mobile and tablet devices as well as desktop.
 
    - The site is fully responsive to all screen sizes and devices. The navbar transforms into a hamburger menu for users on small screens. The menu page also transforms into 1 column of menu containers on smaller screens for easy user readability.
 
