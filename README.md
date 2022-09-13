@@ -1,7 +1,7 @@
 # Vincenzo's Fine Dining
 Vincenzo's fine dining is a static 3 page website for a fictional Italian Restaurant, complete with a homepage, a menu page and a book online page.
 
-Website developed by Sean Johnston for Code Institute Project Portfolio 1.
+Website developed by Sean Johnston for Code Institute Project Portfolio using HTML and CSS.
 
 [Live Website Link](https://seanj06.github.io/Vincenzos-P1/)
 
@@ -297,7 +297,7 @@ Website developed by Sean Johnston for Code Institute Project Portfolio 1.
   ![award-oveflow](assets/README-images/award-section-overflow.jpg)
   </details> 
 
-  - To fix this i added an orientation:landscape media query and set the margin bottom to zero instead of the deafult keyframes -50 pixels.
+  - To fix this i added an orientation:landscape media query and set the margin bottom to zero instead of the default keyframes -50 pixels.
 
   <details><summary>Landscape media query code</summary>
 

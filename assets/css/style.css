@@ -45,9 +45,7 @@ a:hover {
   padding: 2px;
 }
 
-
-
-/*hamburger menu taken from https://alvarotrigo.com/blog/hamburger-menu-css/ */
+/* Hamburger menu taken from https://alvarotrigo.com/blog/hamburger-menu-css/ */
 
 .top-nav {
   display: flex;
